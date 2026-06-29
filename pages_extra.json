@@ -1,0 +1,369 @@
+{
+  "salons_page": {
+    "url": "https://www.hair-artists.ch/salons",
+    "salons": [
+      {
+        "name": "hair-artists ville",
+        "city": "Romont",
+        "address": "Rue des Moines 58, 1680 Romont FR",
+        "phone": "+41266525337",
+        "email": null,
+        "hours": {
+          "lundi": "Fermé",
+          "mardi": "08:00 - 18:30",
+          "mercredi": "08:00 - 18:30",
+          "jeudi": "08:00 - 18:30",
+          "vendredi": "08:00 - 18:30",
+          "samedi": "08:00 - 16:00",
+          "dimanche": "Fermé"
+        },
+        "photos": [
+          "https://static.wixstatic.com/media/8a6ca2_d96b79a7f09e455788f2be9799886a91~mv2.png"
+        ],
+        "instagram_url": "https://www.instagram.com/hairartists_romontville/?hl=fr",
+        "instagram_handle": "@hairartists_romontville",
+        "facebook_url": null,
+        "salonkee_url": "https://salonkee.ch/salon/hair-artists-moines",
+        "maps_url": null,
+        "special_services": []
+      },
+      {
+        "name": "hair-artists centre coop",
+        "city": "Romont",
+        "address": "Route de la Belle-Croix 18, 1680 Romont FR",
+        "phone": "+41266523848",
+        "email": null,
+        "hours": {
+          "lundi": "08:00 - 19:00",
+          "mardi": "08:00 - 19:00",
+          "mercredi": "08:00 - 19:00",
+          "jeudi": "08:00 - 19:00",
+          "vendredi": "08:00 - 19:00",
+          "samedi": "08:00 - 19:00",
+          "dimanche": "Fermé"
+        },
+        "photos": [
+          "https://static.wixstatic.com/media/8a6ca2_8a7b8e3fbf69407bb51b7695d32f4951~mv2.png"
+        ],
+        "instagram_url": "https://www.instagram.com/hair_artists_romont_coop/?hl=fr",
+        "instagram_handle": "@hair_artists_romont_coop",
+        "facebook_url": null,
+        "salonkee_url": "https://salonkee.ch/salon/hair-artists-coop",
+        "maps_url": null,
+        "special_services": []
+      },
+      {
+        "name": "hair-artists marly",
+        "city": "Marly",
+        "address": "Route des Pralettes 1, 1723 Marly",
+        "phone": "+41796058783",
+        "email": null,
+        "hours": {
+          "lundi": "09:00 - 18:30",
+          "mardi": "08:30 - 18:30",
+          "mercredi": "08:30 - 18:30",
+          "jeudi": "08:30 - 18:30",
+          "vendredi": "08:30 - 18:30",
+          "samedi": "09:00 - 16:00",
+          "dimanche": "Fermé"
+        },
+        "photos": [
+          "https://static.wixstatic.com/media/8a6ca2_16a128ffdede4183b5364e4a785e69f4~mv2.png"
+        ],
+        "instagram_url": "https://www.instagram.com/hairartistsmarly/?hl=fr",
+        "instagram_handle": "@hairartistsmarly",
+        "facebook_url": null,
+        "salonkee_url": "https://salonkee.ch/salon/hair-artists-marly",
+        "maps_url": null,
+        "special_services": [
+          "Tout RDV annulé moins de 24h à l'avance sera facturé"
+        ]
+      },
+      {
+        "name": "hair-artists sion",
+        "city": "Sion",
+        "address": "Rue du Scex 2, 1950 Sion",
+        "phone": "+41273462000",
+        "email": null,
+        "hours": {
+          "lundi": "08:00 - 18:30",
+          "mardi": "08:00 - 18:30",
+          "mercredi": "08:00 - 18:30",
+          "jeudi": "08:00 - 18:30",
+          "vendredi": "08:00 - 20:00",
+          "samedi": "08:00 - 17:00",
+          "dimanche": "Fermé"
+        },
+        "photos": [
+          "https://static.wixstatic.com/media/8a6ca2_c8763fd4376c46118370997b2e281fad~mv2.png",
+          "https://static.wixstatic.com/media/8a6ca2_38817643a39346c59b19260f2ea26acb~mv2.jpg"
+        ],
+        "instagram_url": "https://www.instagram.com/hair_artists_sion/?hl=fr",
+        "instagram_handle": "@hair_artists_sion",
+        "facebook_url": null,
+        "salonkee_url": "https://salonkee.ch/salon/hair-artists-sion",
+        "maps_url": null,
+        "special_services": [
+          "En plein centre-ville, au 1er étage du magasin Coop City",
+          "Parkings disponibles à proximité immédiate",
+          "Les RDV se font exclusivement via Salonkee ou par téléphone"
+        ]
+      },
+      {
+        "name": "hair-artists eplatures",
+        "city": "La Chaux-de-Fonds",
+        "address": "Boulevard des Eplatures 20, 2300 La Chaux-de-Fonds",
+        "phone": "+41329266363",
+        "email": null,
+        "hours": {
+          "lundi": "08:30 - 19:00",
+          "mardi": "08:30 - 19:00",
+          "mercredi": "08:30 - 19:00",
+          "jeudi": "08:30 - 20:00",
+          "vendredi": "08:30 - 19:00",
+          "samedi": "08:00 - 18:00",
+          "dimanche": "Fermé"
+        },
+        "photos": [
+          "https://static.wixstatic.com/media/8a6ca2_aebb08275c4148e59c68fd7454b66f02~mv2.png"
+        ],
+        "instagram_url": "https://www.instagram.com/hairartists_leseplatures/?hl=fr",
+        "instagram_handle": "@hairartists_leseplatures",
+        "facebook_url": null,
+        "salonkee_url": "https://salonkee.ch/salon/hair-artists-eplatures",
+        "maps_url": null,
+        "special_services": []
+      },
+      {
+        "name": "hair-artists conthey",
+        "city": "Conthey",
+        "address": "Route Cantonale 18, 1964 Conthey",
+        "phone": "+41273462222",
+        "email": null,
+        "hours": {
+          "lundi": "Fermé",
+          "mardi": "09:00 - 18:30",
+          "mercredi": "09:00 - 18:30",
+          "jeudi": "09:00 - 18:30",
+          "vendredi": "09:00 - 19:00",
+          "samedi": "08:00 - 17:00",
+          "dimanche": "Fermé"
+        },
+        "photos": [
+          "https://static.wixstatic.com/media/8a6ca2_1b7f1ea6e7ea4ec396684b982b89682e~mv2.png"
+        ],
+        "instagram_url": "https://www.instagram.com/hair_artists_conthey/?hl=fr",
+        "instagram_handle": "@hair_artists_conthey",
+        "facebook_url": null,
+        "salonkee_url": "https://salonkee.ch/salon/hair-artists-conthey",
+        "maps_url": null,
+        "special_services": [
+          "Situé dans le centre commercial Coop & King Jouet",
+          "Parking sur place disponible",
+          "Les RDV se font exclusivement via Salonkee ou par téléphone"
+        ]
+      },
+      {
+        "name": "hair-artists métropole",
+        "city": "La Chaux-de-Fonds",
+        "address": "Métropole Centre, Rue Daniel-Jeanrichard 23, 2300 La Chaux-de-Fonds",
+        "phone": "+41329141002",
+        "email": null,
+        "hours": {
+          "lundi": "08:30 - 19:00",
+          "mardi": "08:30 - 19:00",
+          "mercredi": "08:30 - 19:00",
+          "jeudi": "08:30 - 20:00",
+          "vendredi": "08:30 - 19:00",
+          "samedi": "08:00 - 18:00",
+          "dimanche": "Fermé"
+        },
+        "photos": [
+          "https://static.wixstatic.com/media/8a6ca2_37aa7abca3904198b05a13df7ad0956e~mv2.png"
+        ],
+        "instagram_url": "https://www.instagram.com/hairartists_metropole/?hl=fr",
+        "instagram_handle": "@hairartists_metropole",
+        "facebook_url": null,
+        "salonkee_url": "https://salonkee.ch/salon/hair-artists-metropole",
+        "maps_url": null,
+        "special_services": []
+      },
+      {
+        "name": "hair-artists leopold",
+        "city": "La Chaux-de-Fonds",
+        "address": "Avenue Léopold-Robert 13, 2300 La Chaux-de-Fonds",
+        "phone": "+41329137883",
+        "email": null,
+        "hours": {
+          "lundi": "Fermé",
+          "mardi": "08:00 - 18:00",
+          "mercredi": "08:00 - 18:00",
+          "jeudi": "08:00 - 18:00",
+          "vendredi": "08:00 - 18:00",
+          "samedi": "08:00 - 12:00",
+          "dimanche": "Fermé"
+        },
+        "photos": [
+          "https://static.wixstatic.com/media/8a6ca2_b7b70e34e6ab4f1c96730557ab4ca00d~mv2.png"
+        ],
+        "instagram_url": "https://www.instagram.com/hair_artist_leopold/?hl=fr",
+        "instagram_handle": "@hair_artist_leopold",
+        "facebook_url": null,
+        "salonkee_url": "https://salonkee.ch/salon/hair-artists-leopold",
+        "maps_url": null,
+        "special_services": [
+          "1er étage au dessus du restaurant L'Elite"
+        ]
+      },
+      {
+        "name": "hair-artists neuchâtel",
+        "city": "Neuchâtel",
+        "address": "St-Honoré 12, 2000 Neuchâtel",
+        "phone": null,
+        "email": null,
+        "hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        },
+        "photos": [
+          "https://static.wixstatic.com/media/8a6ca2_49aeb3cccd3c44e59f50888a9f15d8fc~mv2.png"
+        ],
+        "instagram_url": "https://www.instagram.com/hairartistsneuchatel/?hl=fr",
+        "instagram_handle": "@hairartistsneuchatel",
+        "facebook_url": null,
+        "salonkee_url": "https://salonkee.ch/salon/hair-artists-neuchatel",
+        "maps_url": null,
+        "special_services": [],
+        "_note": "Le lien Salonkee pointe vers 'Tamara Coiffure & Barbier' (Faubourg du Lac 8) — URL Salonkee possiblement incorrecte sur le site hair-artists. Adresse affichée sur hair-artists.ch : St-Honoré 12, 2000 Neuchâtel. Téléphone non trouvé."
+      }
+    ]
+  },
+  "gammes_page": {
+    "url": "https://www.hair-artists.ch/gammesactuelles",
+    "intro_text": "Notre différence c'est vous",
+    "brands": [
+      {
+        "name": "KERASTASE",
+        "description": "Notre nouvelle gamme de soins pour les cheveux colorés. Pour une couleur magnifiée et une fibre capillaire réparée en profondeur",
+        "product_line": "Chroma Absolu",
+        "logo_url": "https://static.wixstatic.com/media/a0d391_9631855b34a44fbaacd6d1f674c21de4~mv2.png",
+        "website_url": null,
+        "images": [
+          "https://static.wixstatic.com/media/8a6ca2_b5ad1eedcfcc46349681e04e50a876a3~mv2.jpg"
+        ]
+      },
+      {
+        "name": "AUTHENTIC BEAUTY CONCEPT",
+        "description": "Texture Airy, Nude Poudre et Nymphe Salt Spray - sont parfaits pour agiter, coiffer ou ajouter une texture cool à des coiffures authentiques et défaites",
+        "product_line": "Trio coiffant",
+        "logo_url": "https://static.wixstatic.com/media/8a6ca2_a3009b28206d4112a60a66bb4f01676d~mv2.png",
+        "website_url": null,
+        "images": [
+          "https://static.wixstatic.com/media/8a6ca2_b4ab17f59e4740d38c54382b2ebfa258~mv2.jpg"
+        ]
+      },
+      {
+        "name": "SWISS LISS",
+        "description": "Fer à lisser ionique idéal pour boucler ou lisser - Curl edition pour un effet Wavy",
+        "product_line": "Fer à lisser",
+        "logo_url": "https://static.wixstatic.com/media/8a6ca2_873b8f24be9d4e5b970eb65f8cc9066c~mv2.png",
+        "website_url": null,
+        "images": [
+          "https://static.wixstatic.com/media/8a6ca2_f821a1ee72b74f48a03d027bbb32be9f~mv2.jpg"
+        ]
+      },
+      {
+        "name": "KERASTASE",
+        "description": "Double action réparatrice pour tous les cheveux abîmés. 99%* de la force originelle du cheveu retrouvée",
+        "product_line": "Première",
+        "logo_url": "https://static.wixstatic.com/media/a0d391_9631855b34a44fbaacd6d1f674c21de4~mv2.png",
+        "website_url": null,
+        "images": [
+          "https://static.wixstatic.com/media/8a6ca2_d37c2619075243cfaa8593261f6732d2~mv2.jpg"
+        ]
+      },
+      {
+        "name": "GHD",
+        "description": "Depuis 20 ans, ghd propose des outils de coiffage révolutionnaires toujours à la pointe de la technologie pour satisfaire toutes vos envies de coiffage. Lisseur, boucleur, brosse chauffante, sèche-cheveux ou encore produits coiffants",
+        "product_line": "Gamme matériel",
+        "logo_url": "https://static.wixstatic.com/media/8a6ca2_625f2f25e5be4be3804c142f14d14b7a~mv2.png",
+        "website_url": null,
+        "images": [
+          "https://static.wixstatic.com/media/8a6ca2_ba693ccd092547d7bb555dd05aec6c00~mv2.jpg"
+        ]
+      },
+      {
+        "name": "MARCAPAR",
+        "description": "Coloration 100% végétal 100% respectueuse du cheveu Colore- Gaine-Soigne et revitalise le cheveu. De pars ses produits 100% végétal il convient aux femmes enceintes, allaitantes. Au guerrière ayant subi chimiothérapie, radiothérapie",
+        "product_line": "Coloration",
+        "logo_url": "https://static.wixstatic.com/media/8a6ca2_cd82f2773d3c4c1c8e48b6be4b5ee36d~mv2.png",
+        "website_url": null,
+        "images": [
+          "https://static.wixstatic.com/media/8a6ca2_f7b4f3189be24106a7c89dea0380cb1c~mv2.jpg"
+        ]
+      },
+      {
+        "name": "ALFARO PROFESSIONNEL",
+        "description": "Alfaro Professionnel est une marque de coloration, soucieuse de l'environnement, créée par des coiffeurs pour des coiffeurs.",
+        "product_line": "Coloration",
+        "logo_url": "https://static.wixstatic.com/media/a0d391_215913db6a4d4111b16f1381a5075b1e~mv2.png",
+        "website_url": null,
+        "images": [
+          "https://static.wixstatic.com/media/8a6ca2_69bd4e7672304fe8a79b1e6d949e110f~mv2.webp"
+        ]
+      },
+      {
+        "name": "SWISS LISS",
+        "description": "Un sèche-cheveux d'une puissance exceptionnelle, léger comme un nuage (270 grammes ) et ultra silencieux! • 3 réglages de puissance • 3 réglages de chaleur • Bouton air froid instantané",
+        "product_line": "Sèche-cheveux",
+        "logo_url": "https://static.wixstatic.com/media/8a6ca2_873b8f24be9d4e5b970eb65f8cc9066c~mv2.png",
+        "website_url": null,
+        "images": [
+          "https://static.wixstatic.com/media/8a6ca2_d5ed0606f91b42a1b3982a59cb79bbb7~mv2.jpg"
+        ]
+      },
+      {
+        "name": "ROCHETTE",
+        "description": null,
+        "product_line": null,
+        "logo_url": "https://static.wixstatic.com/media/a0d391_83eee8952b85477f86bce7d5e034f6d3~mv2.png",
+        "website_url": null,
+        "images": []
+      }
+    ]
+  },
+  "emploi_page": {
+    "url": "https://www.hair-artists.ch/emploi",
+    "headline": "Offre d'emploi et apprentissage",
+    "intro_text": "Nous formons chaque année un grand nombre d'apprenti(e)s. Notre réseau de formation est important dans la Suisse romande. Nous formons dans nos salons situés dans les cantons de Fribourg, du Valais ainsi que Neuchâtel.",
+    "positions": [
+      {
+        "title": "Apprentissage CFC - 3 ans",
+        "description": "L'Apprentissage, c'est la voie que la majorité des Suisses suivent pour se former et, après 3 ans de formation, elle aboutit au Certificat Fédéral de Capacité (CFC).",
+        "requirements": null,
+        "location": "Cantons de Fribourg, Valais et Neuchâtel (Suisse romande)"
+      }
+    ],
+    "advantages": [],
+    "apply_email": "admin@hair-artists.ch",
+    "apply_text": "Dans le cadre de son développement nos équipes recrutent. Vous êtes intéressé(e)s ? Envoyez-nous votre CV et une lettre de motivation",
+    "images": [
+      "https://static.wixstatic.com/media/8a6ca2_66a92d8ef3584fe29e27e2f4b52662af~mv2.png",
+      "https://static.wixstatic.com/media/11062b_c44b93b3bb5d41ec952c62aa8610a09f~mv2.jpg",
+      "https://static.wixstatic.com/media/8a6ca2_8df52f6c72584525a2dc9528423580d5~mv2.jpg",
+      "https://static.wixstatic.com/media/11062b_fbc070206e1b4dca93ddc20c9810ae61~mv2.jpg",
+      "https://static.wixstatic.com/media/8a6ca2_25af338ddae34a15a0628bed2e32e4bb~mv2.jpg",
+      "https://static.wixstatic.com/media/8a6ca2_aea000bf61844a0693633faec96ed2ea~mv2.jpg",
+      "https://static.wixstatic.com/media/8a6ca2_33a5d4784c164dd092a86ca617bf0a8b~mv2.jpg",
+      "https://static.wixstatic.com/media/8a6ca2_1d9422b399064968bcac25d5d83bcdf8~mv2.jpg",
+      "https://static.wixstatic.com/media/8a6ca2_c1d3a8ae1abc49c09551cfb5bb7673f2~mv2.jpg",
+      "https://static.wixstatic.com/media/bd620724ed3d4f14841d8d856169b5c4.jpg",
+      "https://static.wixstatic.com/media/8a6ca2_d37c2619075243cfaa8593261f6732d2~mv2.jpg"
+    ]
+  }
+}

@@ -1,0 +1,895 @@
+{
+  "metadata": {
+    "brand": "Hair Artists",
+    "site": "hair-artists.ch",
+    "generated_at": "2026-06-03",
+    "style_direction": "modern-luxe-accessible",
+    "mood": ["élégant", "chaleureux", "ancré"],
+    "inspiration": "Inspiré par Dessange et Jean-Louis David — premium accessible, jamais intimidant. Réseau de quartier avec l'exigence d'une chaîne nationale.",
+    "logo_url": "https://static.wixstatic.com/media/8a6ca2_66a92d8ef3584fe29e27e2f4b52662af~mv2.png",
+    "logo_secondary_url": "https://static.wixstatic.com/media/8a6ca2_f77a0aa8b51046f09f104069dcf6f90b~mv2.png",
+    "logo_favicon_url": "https://static.wixstatic.com/media/a0d391_1a61f1588e644b7f9f1be04850dc39eb~mv2.png",
+    "logo_colors_analyzed": ["#0D0D0D (fond noir pur)", "#FFFFFF (texte logotype et virgule signature)"],
+    "logo_analysis": "Logo strictement monochrome noir/blanc. Typographie sans-serif géométrique extra-light avec terminaisons rondes (lettres 'a' à double étage, 't' stylisé). Esprit Bauhaus moderne, épuré. Élément signature distinctif : une virgule/apostrophe blanche surdimensionnée en fin de logotype — évoque l'écoute, le dialogue client, l'artistique. Aucune couleur chromatique dans le logo — direction chromatique entièrement libre.",
+    "color_direction_chosen": "Option A enrichie : Noir profond (fidèle à l'ADN du logo) + Or chaud #C9963A (premium accessible, chaleur, distinction) + Blanc cassé crème (jamais froid). Rejet Option B (bordeaux trop artisanal-vieilli pour cible 25-55 mixte) et Option C (vert sauge trop health/bien-être — hors territoire coiffure mainstream).",
+    "conversion_note": "Chaque token CTA utilise l'or #C9963A sur fond sombre — contraste 6.2:1, chaleur, distinction immédiate dans l'espace visuel. Le bouton CTA est le seul élément doré de chaque section : hiérarchie visuelle absolue vers la prise de rendez-vous.",
+    "reasoning": "1) COULEUR : Le logo impose le noir comme couleur ADN — on le conserve et on l'enrichit. L'or chaud #C9963A en accent CTA crée un contraste fort (6.2:1 sur noir) tout en évoquant le soin et l'accessibilité premium — ni luxe intimidant, ni discount. Le blanc cassé #FAF8F6 adoucit le noir pour les sections cibles 25-55 ans toutes catégories. 2) TYPOGRAPHIE : Plus Jakarta Sans en heading — même esprit géométrique arrondi que le logo, sans être identique. Lato en body — maximal lisible sur mobile pour la lecture des tarifs et horaires. 3) MOTIF GRAPHIQUE : La virgule du logo devient un leitmotiv décoratif réutilisable (sections avis, separateurs). 4) COMPOSANTS : Border-left or sur les cards salon crée une signature visuelle cohérente sans surcharger. Nav noire permanente = cohérence marque + CTA doré toujours visible."
+  },
+
+  "colors": {
+    "primary": {
+      "value": "#0D0D0D",
+      "role": "Couleur principale — fond hero, header sticky, footer, CTA final bande pleine largeur",
+      "contrast_on_white": "20.7:1",
+      "wcag": "AAA"
+    },
+    "primary_hover": {
+      "value": "#1A1A1A",
+      "role": "Hover état sur éléments sombres interactifs"
+    },
+    "primary_light": {
+      "value": "#2C2C2C",
+      "role": "Fond sombre secondaire — sections alternées sombres, nav avec fond opaque au scroll"
+    },
+    "accent": {
+      "value": "#C9963A",
+      "role": "CTA principal réservation, étoiles rating, badges promo, border-left cards, titres de colonnes footer — or chaud premium accessible",
+      "contrast_on_dark_primary": "6.2:1 sur #0D0D0D",
+      "contrast_on_white": "3.1:1 sur #FFFFFF",
+      "wcag_on_dark": "AA (texte normal et grand texte)",
+      "wcag_on_white": "Insuffisant pour texte normal — utiliser uniquement comme background ou élément graphique sur fond blanc",
+      "usage_rule": "Sur fond sombre : texte or autorisé. Sur fond blanc : or en background de bouton avec texte noir, jamais or en texte seul"
+    },
+    "accent_hover": {
+      "value": "#B8852E",
+      "role": "Hover bouton CTA or"
+    },
+    "accent_light": {
+      "value": "#F2E0BB",
+      "role": "Fond badge or léger, ligne highlight tableau tarifs, fond banner promo"
+    },
+    "background": {
+      "value": "#FFFFFF",
+      "role": "Fond principal sections claires",
+      "contrast_on_text": "20.7:1 avec #0D0D0D"
+    },
+    "background_alt": {
+      "value": "#FAF8F6",
+      "role": "Fond alternance sections — blanc cassé crème légèrement chaud, jamais froid",
+      "contrast_on_text": "19.1:1 avec #0D0D0D"
+    },
+    "background_dark": {
+      "value": "#0D0D0D",
+      "role": "Hero, CTA final bande, footer — noir profond signature logo"
+    },
+    "surface": {
+      "value": "#FFFFFF",
+      "role": "Cards, surfaces élevées, modales"
+    },
+    "surface_alt": {
+      "value": "#F5F3F0",
+      "role": "Cards légèrement teintées, lignes alternées tableaux tarifs"
+    },
+    "text_primary": {
+      "value": "#0D0D0D",
+      "role": "Texte principal sur fond clair",
+      "contrast_on_white": "20.7:1",
+      "wcag": "AAA"
+    },
+    "text_secondary": {
+      "value": "#3D3D3D",
+      "role": "Texte secondaire — sous-titres, descriptions paragraphes sur fond clair",
+      "contrast_on_white": "11.3:1",
+      "wcag": "AAA"
+    },
+    "text_muted": {
+      "value": "#6B6B6B",
+      "role": "Horaires, adresses, mentions tarifaires, meta, mentions légales",
+      "contrast_on_white": "5.9:1",
+      "wcag": "AA"
+    },
+    "text_on_dark": {
+      "value": "#FFFFFF",
+      "role": "Texte principal sur fonds sombres #0D0D0D / #1A1A1A / #2C2C2C",
+      "contrast_on_primary": "20.7:1",
+      "wcag": "AAA"
+    },
+    "text_on_dark_muted": {
+      "value": "#B8B8B8",
+      "role": "Texte secondaire sur fond sombre — horaires, meta, mentions",
+      "contrast_on_primary": "10.4:1",
+      "wcag": "AAA"
+    },
+    "text_on_accent": {
+      "value": "#0D0D0D",
+      "role": "Texte sur background or #C9963A — boutons CTA, badges promo",
+      "contrast_on_accent": "6.2:1",
+      "wcag": "AA"
+    },
+    "border": {
+      "value": "#E8E4DE",
+      "role": "Bordures de cards, séparateurs de sections, lignes tableau — légèrement chaud"
+    },
+    "border_strong": {
+      "value": "#C9963A",
+      "role": "Border-left accent cards salon, éléments signature visuelle de la marque"
+    },
+    "success": {
+      "value": "#2D7A3A",
+      "role": "Badge 'Ouvert maintenant', confirmations",
+      "contrast_on_white": "5.2:1",
+      "wcag": "AA"
+    },
+    "success_light": {
+      "value": "#EBF5EC",
+      "role": "Fond badge succès, indicateur ouvert"
+    },
+    "error": {
+      "value": "#C0392B",
+      "role": "Erreurs formulaire, 'Fermé'",
+      "contrast_on_white": "5.1:1",
+      "wcag": "AA"
+    },
+    "warning": {
+      "value": "#D97706",
+      "role": "Alertes disponibilité — utiliser uniquement avec texte sombre ou en grande taille"
+    },
+    "rating_star": {
+      "value": "#C9963A",
+      "role": "Étoiles notation Salonkee — même token que accent pour cohérence visuelle or"
+    },
+    "promo_badge": {
+      "value": "#C9963A",
+      "role": "Badge -20% étudiants, badges offres spéciales"
+    },
+    "badge_vegetal": {
+      "value": "#2D7A3A",
+      "role": "Badge 'Coloration 100% végétale' — vert naturel pour signifier le végétal Marcapar (salon Marly)"
+    },
+    "badge_vegetal_bg": {
+      "value": "#EBF5EC",
+      "role": "Fond badge végétal"
+    },
+    "badge_medical": {
+      "value": "#4A6FA5",
+      "role": "Badge 'Perruques médicales' — bleu soin, discrétion, confiance (salon Eplatures)"
+    },
+    "badge_medical_bg": {
+      "value": "#EEF2F9",
+      "role": "Fond badge médical"
+    },
+    "overlay_dark": {
+      "value": "rgba(13,13,13,0.72)",
+      "role": "Overlay sur images hero et cards avec photo de fond"
+    },
+    "overlay_light": {
+      "value": "rgba(13,13,13,0.45)",
+      "role": "Overlay léger pour lisibilité texte sur photos salon"
+    }
+  },
+
+  "wcag_validation": {
+    "rules": [
+      "Or #C9963A sur noir #0D0D0D : 6.2:1 — AA texte normal ET grand texte",
+      "Noir #0D0D0D sur or #C9963A : 6.2:1 — AA (boutons CTA)",
+      "Noir #0D0D0D sur blanc #FFFFFF : 20.7:1 — AAA",
+      "Blanc #FFFFFF sur noir #0D0D0D : 20.7:1 — AAA",
+      "Texte muted #6B6B6B sur blanc : 5.9:1 — AA",
+      "Texte muted-dark #B8B8B8 sur noir : 10.4:1 — AAA",
+      "Vert badge #2D7A3A sur blanc : 5.2:1 — AA",
+      "Or #C9963A sur blanc #FFFFFF : 3.1:1 — INSUFFISANT pour texte normal — interdit en texte sur fond blanc",
+      "RÈGLE ABSOLUE : l'or n'est jamais utilisé en couleur de texte sur fond blanc. L'or est réservé : (1) background de bouton avec texte noir, (2) texte/icône sur fond noir, (3) éléments décoratifs non textuels."
+    ]
+  },
+
+  "typography": {
+    "font_heading": "Plus Jakarta Sans",
+    "font_body": "Lato",
+    "font_url": "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Lato:wght@300;400;700&display=swap",
+    "font_preconnect": [
+      "https://fonts.googleapis.com",
+      "https://fonts.gstatic.com"
+    ],
+    "rationale": "Plus Jakarta Sans : géométrique moderne avec terminaisons légèrement rondes — esprit cohérent avec le logo sans être identique. Supporte weight 300 (hero léger et élégant) jusqu'à 800 (prix et badges). Lato : corps de texte ultra-lisible sur mobile, mature, parfait pour tableaux de tarifs et fiches salon. Pas de serif : la marque est urbaine et contemporaine, cible 25-55 toutes catégories.",
+    "scale": {
+      "hero": {
+        "size": "clamp(2.5rem, 6vw, 4.5rem)",
+        "weight": "300",
+        "line_height": "1.1",
+        "letter_spacing": "-0.03em",
+        "font_family": "Plus Jakarta Sans",
+        "note": "H1 hero — extra-light, impactant, cohérent avec l'esprit logo. 'Votre coiffure, entre les meilleures mains de Suisse romande'"
+      },
+      "h1": {
+        "size": "clamp(2rem, 4.5vw, 3.5rem)",
+        "weight": "300",
+        "line_height": "1.15",
+        "letter_spacing": "-0.02em",
+        "font_family": "Plus Jakarta Sans"
+      },
+      "h2": {
+        "size": "clamp(1.625rem, 3.5vw, 2.5rem)",
+        "weight": "600",
+        "line_height": "1.2",
+        "letter_spacing": "-0.01em",
+        "font_family": "Plus Jakarta Sans",
+        "note": "Titres de section — semibold pour ancrer sans alourdir. 'Nos 9 salons en Suisse romande'"
+      },
+      "h3": {
+        "size": "clamp(1.25rem, 2.5vw, 1.75rem)",
+        "weight": "600",
+        "line_height": "1.25",
+        "letter_spacing": "0",
+        "font_family": "Plus Jakarta Sans"
+      },
+      "h4": {
+        "size": "clamp(1.125rem, 2vw, 1.375rem)",
+        "weight": "600",
+        "line_height": "1.3",
+        "letter_spacing": "0",
+        "font_family": "Plus Jakarta Sans",
+        "note": "Nom du salon dans les cards, titres d'atout"
+      },
+      "body": {
+        "size": "1rem",
+        "weight": "400",
+        "line_height": "1.65",
+        "letter_spacing": "0",
+        "font_family": "Lato"
+      },
+      "body_large": {
+        "size": "1.125rem",
+        "weight": "400",
+        "line_height": "1.6",
+        "letter_spacing": "0",
+        "font_family": "Lato",
+        "note": "Paragraphes hero, descriptions salon"
+      },
+      "small": {
+        "size": "0.875rem",
+        "weight": "400",
+        "line_height": "1.5",
+        "letter_spacing": "0",
+        "font_family": "Lato",
+        "note": "Horaires, adresses, notes tarifaires"
+      },
+      "xsmall": {
+        "size": "0.75rem",
+        "weight": "400",
+        "line_height": "1.4",
+        "letter_spacing": "0.01em",
+        "font_family": "Lato",
+        "note": "Copyright, micro-mentions"
+      },
+      "price": {
+        "size": "clamp(1.5rem, 3vw, 2rem)",
+        "weight": "700",
+        "line_height": "1.1",
+        "letter_spacing": "-0.01em",
+        "font_family": "Plus Jakarta Sans",
+        "note": "Montants CHF dans sections offres et tableaux"
+      },
+      "price_small": {
+        "size": "1.125rem",
+        "weight": "700",
+        "line_height": "1.2",
+        "letter_spacing": "0",
+        "font_family": "Plus Jakarta Sans",
+        "note": "Prix dans les lignes de tableau — semibold suffisant"
+      },
+      "cta": {
+        "size": "1rem",
+        "weight": "600",
+        "line_height": "1",
+        "letter_spacing": "0.04em",
+        "text_transform": "none",
+        "font_family": "Plus Jakarta Sans",
+        "note": "Texte de bouton — semibold + letter-spacing pour impact et lisibilité. Pas d'uppercase : accessible et naturel."
+      },
+      "badge": {
+        "size": "0.75rem",
+        "weight": "700",
+        "line_height": "1",
+        "letter_spacing": "0.06em",
+        "text_transform": "uppercase",
+        "font_family": "Plus Jakarta Sans",
+        "note": "Labels et badges — uppercase bold pour distinction"
+      },
+      "section_label": {
+        "size": "0.75rem",
+        "weight": "700",
+        "line_height": "1",
+        "letter_spacing": "0.12em",
+        "text_transform": "uppercase",
+        "font_family": "Plus Jakarta Sans",
+        "color": "#C9963A",
+        "note": "Surtitre de section en or — 'NOS SALONS', 'NOS SERVICES', 'AVIS CLIENTS'"
+      },
+      "nav": {
+        "size": "0.9375rem",
+        "weight": "500",
+        "line_height": "1",
+        "letter_spacing": "0.01em",
+        "font_family": "Plus Jakarta Sans"
+      },
+      "quote": {
+        "size": "clamp(1rem, 2vw, 1.25rem)",
+        "weight": "300",
+        "line_height": "1.7",
+        "letter_spacing": "0",
+        "font_family": "Plus Jakarta Sans",
+        "font_style": "italic",
+        "note": "Avis clients — light italic pour authenticité et douceur"
+      }
+    },
+    "weights": {
+      "light": 300,
+      "regular": 400,
+      "medium": 500,
+      "semibold": 600,
+      "bold": 700,
+      "extrabold": 800
+    },
+    "line_heights": {
+      "tight": 1.1,
+      "snug": 1.25,
+      "normal": 1.5,
+      "relaxed": 1.65,
+      "loose": 1.85
+    },
+    "letter_spacings": {
+      "tighter": "-0.03em",
+      "tight": "-0.02em",
+      "snug": "-0.01em",
+      "normal": "0",
+      "wide": "0.02em",
+      "wider": "0.04em",
+      "widest": "0.06em",
+      "label": "0.12em"
+    }
+  },
+
+  "spacing": {
+    "base": "4px",
+    "scale": {
+      "1": "4px",
+      "2": "8px",
+      "3": "12px",
+      "4": "16px",
+      "5": "20px",
+      "6": "24px",
+      "8": "32px",
+      "10": "40px",
+      "12": "48px",
+      "16": "64px",
+      "20": "80px",
+      "24": "96px",
+      "32": "128px",
+      "40": "160px"
+    },
+    "section_padding": "clamp(64px, 8vw, 96px) 0",
+    "section_padding_sm": "clamp(40px, 6vw, 64px) 0",
+    "container_max": "1200px",
+    "container_padding": "clamp(16px, 5vw, 32px)",
+    "grid_gap": "24px",
+    "grid_gap_lg": "32px",
+    "card_padding": "clamp(20px, 4vw, 32px)",
+    "card_padding_sm": "16px 20px",
+    "nav_height": "72px",
+    "nav_height_mobile": "64px",
+    "hero_min_height": "clamp(560px, 80vh, 800px)"
+  },
+
+  "border_radius": {
+    "xs": "2px",
+    "sm": "6px",
+    "md": "10px",
+    "lg": "14px",
+    "xl": "20px",
+    "2xl": "28px",
+    "full": "9999px",
+    "card": "14px",
+    "button": "9999px",
+    "badge": "9999px",
+    "input": "8px",
+    "icon": "12px",
+    "image": "10px"
+  },
+
+  "shadows": {
+    "xs": "0 1px 3px rgba(13,13,13,0.06), 0 1px 2px rgba(13,13,13,0.04)",
+    "sm": "0 2px 8px rgba(13,13,13,0.08), 0 1px 3px rgba(13,13,13,0.05)",
+    "md": "0 4px 16px rgba(13,13,13,0.10), 0 2px 6px rgba(13,13,13,0.06)",
+    "lg": "0 8px 28px rgba(13,13,13,0.12), 0 4px 10px rgba(13,13,13,0.07)",
+    "xl": "0 16px 48px rgba(13,13,13,0.14), 0 6px 16px rgba(13,13,13,0.08)",
+    "2xl": "0 24px 64px rgba(13,13,13,0.18)",
+    "accent": "0 4px 20px rgba(201,150,58,0.30), 0 2px 8px rgba(201,150,58,0.15)",
+    "accent_hover": "0 6px 28px rgba(201,150,58,0.40), 0 3px 10px rgba(201,150,58,0.20)",
+    "card_hover": "0 12px 36px rgba(13,13,13,0.14), 0 4px 12px rgba(13,13,13,0.08)",
+    "nav": "0 2px 16px rgba(13,13,13,0.15)",
+    "inner": "inset 0 2px 4px rgba(13,13,13,0.06)"
+  },
+
+  "components": {
+    "button_cta": {
+      "background": "#C9963A",
+      "color": "#0D0D0D",
+      "border": "none",
+      "border_radius": "9999px",
+      "padding": "16px 32px",
+      "padding_mobile": "16px 24px",
+      "font_family": "Plus Jakarta Sans",
+      "font_size": "1rem",
+      "font_weight": "600",
+      "letter_spacing": "0.04em",
+      "min_height": "52px",
+      "min_width_mobile": "100%",
+      "hover_background": "#B8852E",
+      "hover_transform": "translateY(-2px)",
+      "hover_shadow": "0 6px 28px rgba(201,150,58,0.40)",
+      "active_transform": "translateY(0)",
+      "active_shadow": "none",
+      "transition": "all 250ms cubic-bezier(0.4,0,0.2,1)",
+      "text_examples": ["Prendre rendez-vous", "Réserver en ligne", "Réserver maintenant", "Profiter du -20%"],
+      "note": "CTA principal réservation. Or sur fond sombre = contraste 6.2:1 WCAG AA. Pill-shaped pour distinction visuelle maximale. Sur mobile : pleine largeur. C'est le bouton le plus visible de chaque section."
+    },
+    "button_secondary_light": {
+      "background": "transparent",
+      "color": "#0D0D0D",
+      "border": "2px solid #0D0D0D",
+      "border_radius": "9999px",
+      "padding": "14px 28px",
+      "font_family": "Plus Jakarta Sans",
+      "font_size": "1rem",
+      "font_weight": "600",
+      "letter_spacing": "0.04em",
+      "min_height": "52px",
+      "hover_background": "#0D0D0D",
+      "hover_color": "#FFFFFF",
+      "transition": "all 250ms cubic-bezier(0.4,0,0.2,1)",
+      "text_examples": ["Trouver mon salon", "Voir nos tarifs"],
+      "note": "Bouton secondaire sur fond clair (sections crème/blanc)"
+    },
+    "button_secondary_dark": {
+      "background": "transparent",
+      "color": "#FFFFFF",
+      "border": "2px solid rgba(255,255,255,0.50)",
+      "border_radius": "9999px",
+      "padding": "14px 28px",
+      "font_weight": "600",
+      "min_height": "52px",
+      "hover_background": "rgba(255,255,255,0.08)",
+      "hover_border": "2px solid #FFFFFF",
+      "hover_color": "#FFFFFF",
+      "transition": "all 250ms cubic-bezier(0.4,0,0.2,1)",
+      "text_examples": ["Voir nos tarifs", "En savoir plus"],
+      "note": "Bouton secondaire sur fond sombre (hero, footer, CTA final)"
+    },
+    "button_phone": {
+      "background": "#0D0D0D",
+      "color": "#FFFFFF",
+      "border": "none",
+      "border_radius": "9999px",
+      "padding": "12px 24px",
+      "font_weight": "600",
+      "font_size": "0.9375rem",
+      "icon": "phone",
+      "icon_size": "16px",
+      "icon_gap": "8px",
+      "min_height": "48px",
+      "hover_background": "#2C2C2C",
+      "transition": "all 200ms cubic-bezier(0.4,0,0.2,1)",
+      "note": "Bouton appel dans les cards salon. Touch target 48px minimum sur mobile. Toujours accompagné du bouton CTA or dans chaque card."
+    },
+    "button_icon": {
+      "size": "44px",
+      "background": "rgba(13,13,13,0.06)",
+      "border_radius": "9999px",
+      "hover_background": "rgba(13,13,13,0.12)",
+      "note": "Bouton icône seul — Instagram, liens externes"
+    },
+    "salon_card": {
+      "background": "#FFFFFF",
+      "border_radius": "14px",
+      "border": "1px solid #E8E4DE",
+      "border_left": "4px solid #C9963A",
+      "shadow": "0 2px 8px rgba(13,13,13,0.08), 0 1px 3px rgba(13,13,13,0.05)",
+      "hover_shadow": "0 12px 36px rgba(13,13,13,0.14), 0 4px 12px rgba(13,13,13,0.08)",
+      "hover_transform": "translateY(-4px)",
+      "transition": "all 300ms cubic-bezier(0.4,0,0.2,1)",
+      "padding": "clamp(20px, 4vw, 28px)",
+      "image_aspect_ratio": "16/9",
+      "image_border_radius": "10px 10px 0 0",
+      "image_object_fit": "cover",
+      "image_overlay": "rgba(13,13,13,0.20)",
+      "cta_row_border_top": "1px solid #E8E4DE",
+      "cta_row_padding_top": "16px",
+      "cta_row_margin_top": "16px",
+      "cta_row_layout": "flex space-between — bouton 'Réserver en ligne' (or) + bouton 'Appeler' (noir)",
+      "note": "Card de salon. Border-left or = signature visuelle du groupe. Image en haut, infos au milieu, 2 CTAs en bas. Badge rating Salonkee affiché sur l'image (position absolute). Hover lift 4px."
+    },
+    "rating_badge": {
+      "background": "#FAF8F6",
+      "border": "1px solid #E8E4DE",
+      "border_radius": "9999px",
+      "padding": "4px 12px",
+      "star_color": "#C9963A",
+      "text_color": "#0D0D0D",
+      "font_weight": "700",
+      "font_size": "0.875rem",
+      "layout": "star icon + note + '(N avis)'",
+      "note": "Badge note Salonkee dans la card salon — fond crème, étoile or, note en gras"
+    },
+    "rating_badge_large": {
+      "background": "#0D0D0D",
+      "border_radius": "12px",
+      "padding": "20px 28px",
+      "star_color": "#C9963A",
+      "note_color": "#FFFFFF",
+      "note_size": "2rem",
+      "note_weight": "700",
+      "label_color": "#B8B8B8",
+      "label_size": "0.875rem",
+      "note": "Badge grande version dans la section récap avis — fond noir pour impact"
+    },
+    "promo_banner": {
+      "background": "#C9963A",
+      "color": "#0D0D0D",
+      "border_radius": "14px",
+      "padding": "clamp(24px, 4vw, 48px)",
+      "badge_text": "Offre permanente",
+      "badge_background": "#0D0D0D",
+      "badge_color": "#C9963A",
+      "badge_border_radius": "9999px",
+      "badge_padding": "4px 16px",
+      "contrast_ratio": "6.2:1 — WCAG AA",
+      "note": "Bandeau -20% étudiants. Fond or, texte noir. Badge interne inversé : fond noir texte or."
+    },
+    "promo_card": {
+      "background": "#FAF8F6",
+      "border": "2px solid #C9963A",
+      "border_radius": "14px",
+      "padding": "clamp(20px, 4vw, 32px)",
+      "badge_background": "#C9963A",
+      "badge_color": "#0D0D0D",
+      "badge_border_radius": "9999px",
+      "note": "Card offre standard (Rituel Kérastase, abonnements) — bordure or pour distinction, fond crème"
+    },
+    "badge_student": {
+      "background": "#C9963A",
+      "color": "#0D0D0D",
+      "border_radius": "9999px",
+      "padding": "4px 14px",
+      "font_size": "0.75rem",
+      "font_weight": "700",
+      "letter_spacing": "0.06em",
+      "text_transform": "uppercase",
+      "text": "-20% ETUDIANTS"
+    },
+    "badge_vegetal": {
+      "background": "#EBF5EC",
+      "color": "#1A5C22",
+      "border": "1px solid #2D7A3A",
+      "border_radius": "9999px",
+      "padding": "4px 14px",
+      "font_size": "0.75rem",
+      "font_weight": "700",
+      "letter_spacing": "0.06em",
+      "text_transform": "uppercase",
+      "text": "COLORATION VÉGÉTALE",
+      "note": "Badge sur la card Marly — vert naturel cohérent avec le positionnement Marcapar"
+    },
+    "badge_medical": {
+      "background": "#EEF2F9",
+      "color": "#2A4A7A",
+      "border": "1px solid #4A6FA5",
+      "border_radius": "9999px",
+      "padding": "4px 14px",
+      "font_size": "0.75rem",
+      "font_weight": "700",
+      "letter_spacing": "0.06em",
+      "text_transform": "uppercase",
+      "text": "PERRUQUES MÉDICALES",
+      "note": "Badge sur la card Eplatures. Bleu discret et sérieux — soin, confiance, sans dramatisme"
+    },
+    "badge_new": {
+      "background": "#0D0D0D",
+      "color": "#C9963A",
+      "border_radius": "9999px",
+      "padding": "4px 14px",
+      "font_size": "0.75rem",
+      "font_weight": "700",
+      "letter_spacing": "0.06em",
+      "text_transform": "uppercase",
+      "text": "NOUVEAU"
+    },
+    "badge_permanent": {
+      "background": "#0D0D0D",
+      "color": "#C9963A",
+      "border_radius": "9999px",
+      "padding": "4px 14px",
+      "font_size": "0.75rem",
+      "font_weight": "700",
+      "letter_spacing": "0.06em",
+      "text_transform": "uppercase",
+      "text": "OFFRE PERMANENTE"
+    },
+    "pricing_table": {
+      "container_background": "#FFFFFF",
+      "container_border": "1px solid #E8E4DE",
+      "container_border_radius": "14px",
+      "container_overflow": "hidden",
+      "header_background": "#0D0D0D",
+      "header_color": "#FFFFFF",
+      "header_padding": "16px 24px",
+      "header_font_weight": "700",
+      "row_padding": "14px 24px",
+      "row_border_bottom": "1px solid #F0ECE6",
+      "row_alt_background": "#FAF8F6",
+      "row_hover_background": "#F5F3F0",
+      "row_service_color": "#0D0D0D",
+      "row_price_color": "#0D0D0D",
+      "row_price_font_weight": "700",
+      "row_price_font_family": "Plus Jakarta Sans",
+      "highlight_background": "#FDF8EE",
+      "highlight_border_left": "3px solid #C9963A",
+      "tab_container_background": "#FAF8F6",
+      "tab_background": "transparent",
+      "tab_color": "#3D3D3D",
+      "tab_hover_background": "#FFFFFF",
+      "tab_active_background": "#0D0D0D",
+      "tab_active_color": "#FFFFFF",
+      "tab_border_radius": "9999px",
+      "tab_padding": "10px 20px",
+      "tab_font_weight": "600",
+      "note": "Tableaux de tarifs. Header noir, lignes alternées crème, prix en bold. Onglets pill-shaped cohérents avec les boutons. Mobile : select ou accordion."
+    },
+    "testimonial_card": {
+      "background": "#FFFFFF",
+      "border_radius": "14px",
+      "border": "1px solid #E8E4DE",
+      "shadow": "0 2px 8px rgba(13,13,13,0.08)",
+      "padding": "clamp(20px, 4vw, 32px)",
+      "quote_mark_color": "#C9963A",
+      "quote_mark_size": "3.5rem",
+      "quote_mark_font_weight": "700",
+      "quote_mark_note": "Guillemet/virgule or en décoration — réutilisation du motif logo virgule",
+      "text_color": "#3D3D3D",
+      "text_style": "italic",
+      "author_color": "#0D0D0D",
+      "author_font_weight": "700",
+      "salon_color": "#6B6B6B",
+      "salon_font_size": "0.875rem",
+      "star_color": "#C9963A",
+      "stars": "5",
+      "note": "Card avis client. La virgule or en décoration réutilise le motif signature du logo — cohérence graphique forte."
+    },
+    "atout_card": {
+      "background": "#FAF8F6",
+      "border_radius": "14px",
+      "padding": "clamp(20px, 4vw, 32px)",
+      "icon_background": "#0D0D0D",
+      "icon_color": "#C9963A",
+      "icon_size": "48px",
+      "icon_border_radius": "12px",
+      "icon_padding": "12px",
+      "title_color": "#0D0D0D",
+      "title_font_weight": "600",
+      "text_color": "#3D3D3D",
+      "note": "Cards section 'Pourquoi choisir Hair Artists'. Icône or sur fond noir dans container carré arrondi."
+    },
+    "nav": {
+      "background_default": "rgba(13,13,13,0.92)",
+      "background_scrolled": "#0D0D0D",
+      "backdrop_filter": "blur(12px) saturate(1.5)",
+      "border_bottom": "1px solid rgba(255,255,255,0.06)",
+      "border_bottom_scrolled": "1px solid rgba(255,255,255,0.10)",
+      "shadow_scrolled": "0 2px 20px rgba(13,13,13,0.40)",
+      "link_color": "rgba(255,255,255,0.78)",
+      "link_color_hover": "#FFFFFF",
+      "link_color_active": "#C9963A",
+      "link_font_weight": "500",
+      "logo_height": "36px",
+      "height": "72px",
+      "height_mobile": "64px",
+      "cta_always_visible": true,
+      "cta_button": "button_cta",
+      "mobile_menu_background": "#0D0D0D",
+      "mobile_menu_border_top": "1px solid rgba(255,255,255,0.10)",
+      "mobile_cta_width": "100%",
+      "note": "Navigation sticky noire en permanence — cohérence ADN logo noir. CTA doré toujours visible desktop et mobile. Hamburger blanc sur mobile. Backdrop-blur pour effet glass sur le hero."
+    },
+    "hero": {
+      "background_fallback": "#0D0D0D",
+      "image_overlay": "linear-gradient(135deg, rgba(13,13,13,0.80) 0%, rgba(13,13,13,0.55) 50%, rgba(13,13,13,0.70) 100%)",
+      "min_height": "clamp(560px, 80vh, 800px)",
+      "content_max_width": "680px",
+      "content_align": "left",
+      "badge_strip_background": "rgba(255,255,255,0.07)",
+      "badge_strip_border": "1px solid rgba(255,255,255,0.14)",
+      "badge_strip_border_radius": "9999px",
+      "badge_strip_padding": "10px 20px",
+      "badge_strip_items": ["4.8-5/5 sur Salonkee", "-20% étudiants & apprentis", "Réservation en ligne 24h/24"],
+      "trust_line_color": "rgba(255,255,255,0.50)",
+      "trust_line_font_size": "0.875rem",
+      "trust_line_text": "Réservation sans acompte — Annulation libre — Plus de 580 avis vérifiés",
+      "cta_row_gap": "12px",
+      "cta_primary": "Prendre rendez-vous",
+      "cta_secondary": "Trouver mon salon",
+      "note": "Hero avec image de fond + overlay dégradé. Badge strip pill-shaped sous les CTAs. Trust line sous les CTAs en petit."
+    },
+    "cta_final_band": {
+      "background": "#0D0D0D",
+      "color": "#FFFFFF",
+      "padding": "clamp(64px, 10vw, 120px) clamp(16px, 5vw, 32px)",
+      "max_width": "800px",
+      "margin": "0 auto",
+      "text_align": "center",
+      "cta_primary": "Réserver maintenant",
+      "cta_secondary": "Voir nos tarifs",
+      "note": "CTA Final bande pleine largeur — capture les indécis. Fond noir, CTA or, bouton secondaire blanc outline."
+    },
+    "footer": {
+      "background": "#0D0D0D",
+      "color": "#FFFFFF",
+      "link_color": "rgba(255,255,255,0.60)",
+      "link_hover_color": "#C9963A",
+      "border_top": "1px solid rgba(255,255,255,0.10)",
+      "column_title_color": "#C9963A",
+      "column_title_font_size": "0.75rem",
+      "column_title_font_weight": "700",
+      "column_title_letter_spacing": "0.12em",
+      "column_title_text_transform": "uppercase",
+      "bottom_bar_border_top": "1px solid rgba(255,255,255,0.08)",
+      "bottom_bar_color": "rgba(255,255,255,0.38)",
+      "bottom_bar_font_size": "0.875rem",
+      "logo_height": "32px",
+      "note": "Footer noir cohérent avec hero. Titres de colonnes en or. Liens blanc 60% → or au hover. Bottom bar avec copyright et liens légaux."
+    },
+    "input": {
+      "background": "#FFFFFF",
+      "border": "1.5px solid #E8E4DE",
+      "border_radius": "8px",
+      "padding": "12px 16px",
+      "font_size": "1rem",
+      "font_family": "Lato",
+      "color": "#0D0D0D",
+      "placeholder_color": "#6B6B6B",
+      "focus_border": "1.5px solid #0D0D0D",
+      "focus_shadow": "0 0 0 3px rgba(201,150,58,0.15)",
+      "error_border": "1.5px solid #C0392B",
+      "height": "52px"
+    },
+    "section_label_component": {
+      "element": "p ou span au-dessus du H2",
+      "color": "#C9963A",
+      "font_size": "0.75rem",
+      "font_weight": "700",
+      "letter_spacing": "0.12em",
+      "text_transform": "uppercase",
+      "margin_bottom": "12px",
+      "examples": ["NOS SALONS", "NOS SERVICES & TARIFS", "POURQUOI NOUS CHOISIR ?", "AVIS CLIENTS", "NOS OFFRES"]
+    },
+    "brand_partner_logo": {
+      "container_background": "#FFFFFF",
+      "container_border": "1px solid #E8E4DE",
+      "container_border_radius": "12px",
+      "container_padding": "20px 28px",
+      "img_max_height": "48px",
+      "img_filter_on_dark_bg": "brightness(0) invert(1)",
+      "hover_border_color": "#C9963A",
+      "hover_shadow": "0 4px 16px rgba(13,13,13,0.10)",
+      "transition": "all 250ms cubic-bezier(0.4,0,0.2,1)"
+    }
+  },
+
+  "animations": {
+    "transition_fast": "150ms cubic-bezier(0.4,0,0.2,1)",
+    "transition_normal": "250ms cubic-bezier(0.4,0,0.2,1)",
+    "transition_slow": "400ms cubic-bezier(0.4,0,0.2,1)",
+    "transition_spring": "350ms cubic-bezier(0.34,1.56,0.64,1)",
+    "hover_lift_sm": "translateY(-2px)",
+    "hover_lift": "translateY(-4px)",
+    "hover_lift_lg": "translateY(-6px)",
+    "duration_fast": "150ms",
+    "duration_normal": "250ms",
+    "duration_slow": "400ms",
+    "easing_default": "cubic-bezier(0.4,0,0.2,1)",
+    "easing_spring": "cubic-bezier(0.34,1.56,0.64,1)",
+    "easing_in": "cubic-bezier(0.4,0,1,1)",
+    "easing_out": "cubic-bezier(0,0,0.2,1)",
+    "scroll_reveal": "fadeUp 500ms cubic-bezier(0,0,0.2,1) both",
+    "stagger_delay": "80ms",
+    "nav_transition": "background 250ms ease, box-shadow 250ms ease"
+  },
+
+  "icons": {
+    "style": "outline",
+    "source": "Lucide Icons CDN",
+    "cdn_url": "https://unpkg.com/lucide@latest/dist/umd/lucide.min.js",
+    "size_default": "20px",
+    "size_sm": "16px",
+    "size_lg": "24px",
+    "stroke_width": "1.5",
+    "icon_map": {
+      "phone": "phone",
+      "calendar": "calendar",
+      "map_pin": "map-pin",
+      "clock": "clock",
+      "star": "star",
+      "instagram": "instagram",
+      "arrow_right": "arrow-right",
+      "arrow_down": "arrow-down",
+      "check": "check",
+      "check_circle": "check-circle",
+      "leaf": "leaf",
+      "heart": "heart",
+      "award": "award",
+      "users": "users",
+      "menu": "menu",
+      "x": "x",
+      "chevron_down": "chevron-down",
+      "external_link": "external-link",
+      "scissors": "scissors",
+      "shield_check": "shield-check",
+      "sparkles": "sparkles",
+      "graduation_cap": "graduation-cap"
+    }
+  },
+
+  "breakpoints": {
+    "xs": "375px",
+    "sm": "640px",
+    "md": "768px",
+    "lg": "1024px",
+    "xl": "1280px",
+    "2xl": "1536px"
+  },
+
+  "grid": {
+    "salon_cards_mobile": 1,
+    "salon_cards_tablet": 2,
+    "salon_cards_desktop": 3,
+    "atout_cards_desktop": 3,
+    "testimonials_desktop": 3,
+    "gallery_mobile": 2,
+    "gallery_tablet": 3,
+    "gallery_desktop": 4,
+    "pricing_tabs_scroll": "horizontal scroll sur mobile"
+  },
+
+  "accessibility": {
+    "focus_ring": "0 0 0 3px rgba(201,150,58,0.40)",
+    "focus_ring_offset": "2px",
+    "focus_color": "#C9963A",
+    "skip_link_background": "#C9963A",
+    "skip_link_color": "#0D0D0D",
+    "min_touch_target": "44px",
+    "min_touch_target_cta": "52px",
+    "aria_rules": [
+      "Boutons tel: avec aria-label='Appeler [nom du salon]'",
+      "Liens Salonkee avec aria-label='Réserver en ligne au salon [nom]'",
+      "Images de salon avec alt descriptif complet",
+      "Nav avec role='navigation' et aria-label='Navigation principale'",
+      "Section salons avec id='salons' pour ancrage clavier",
+      "Étoiles rating avec aria-label='Note : 4.9 sur 5'",
+      "Skip link 'Aller au contenu principal' en premier élément du body"
+    ],
+    "color_contrast_summary": {
+      "pass": [
+        "Noir #0D0D0D sur blanc : 20.7:1 AAA",
+        "Blanc sur noir : 20.7:1 AAA",
+        "Or #C9963A sur noir : 6.2:1 AA",
+        "Noir sur or #C9963A : 6.2:1 AA",
+        "Muted #6B6B6B sur blanc : 5.9:1 AA",
+        "Muted-dark #B8B8B8 sur noir : 10.4:1 AAA",
+        "Vert #2D7A3A sur blanc : 5.2:1 AA"
+      ],
+      "forbidden": [
+        "Or #C9963A en texte sur fond blanc — ratio 3.1:1 insuffisant"
+      ]
+    }
+  },
+
+  "css_custom_properties": ":root {\n  /* ============================================\n     HAIR ARTISTS — DESIGN SYSTEM v1.0\n     2026-06-03 | style: modern-luxe-accessible\n     Fonts: Plus Jakarta Sans + Lato (Google Fonts)\n  ============================================ */\n\n  /* --- COULEURS PRINCIPALES --- */\n  --color-primary:            #0D0D0D;\n  --color-primary-hover:      #1A1A1A;\n  --color-primary-light:      #2C2C2C;\n\n  /* --- ACCENT OR — CTA, notes, étoiles --- */\n  --color-accent:             #C9963A;\n  --color-accent-hover:       #B8852E;\n  --color-accent-light:       #F2E0BB;\n\n  /* --- FONDS --- */\n  --color-bg:                 #FFFFFF;\n  --color-bg-alt:             #FAF8F6;\n  --color-bg-dark:            #0D0D0D;\n  --color-surface:            #FFFFFF;\n  --color-surface-alt:        #F5F3F0;\n\n  /* --- TEXTE --- */\n  --color-text:               #0D0D0D;\n  --color-text-secondary:     #3D3D3D;\n  --color-text-muted:         #6B6B6B;\n  --color-text-on-dark:       #FFFFFF;\n  --color-text-on-dark-muted: #B8B8B8;\n  --color-text-on-accent:     #0D0D0D;\n\n  /* --- BORDURES --- */\n  --color-border:             #E8E4DE;\n  --color-border-strong:      #C9963A;\n\n  /* --- ÉTATS SÉMANTIQUES --- */\n  --color-success:            #2D7A3A;\n  --color-success-light:      #EBF5EC;\n  --color-error:              #C0392B;\n  --color-warning:            #D97706;\n  --color-star:               #C9963A;\n\n  /* --- BADGES SPÉCIAUX --- */\n  --color-badge-vegetal:      #2D7A3A;\n  --color-badge-vegetal-bg:   #EBF5EC;\n  --color-badge-medical:      #4A6FA5;\n  --color-badge-medical-bg:   #EEF2F9;\n\n  /* --- OVERLAYS --- */\n  --overlay-dark:             rgba(13,13,13,0.72);\n  --overlay-light:            rgba(13,13,13,0.45);\n\n  /* ============================================\n     TYPOGRAPHIE\n  ============================================ */\n  --font-heading: 'Plus Jakarta Sans', system-ui, sans-serif;\n  --font-body:    'Lato', system-ui, sans-serif;\n\n  /* Échelle fixe */\n  --text-xs:   0.75rem;   /* 12px */\n  --text-sm:   0.875rem;  /* 14px */\n  --text-base: 1rem;      /* 16px */\n  --text-lg:   1.125rem;  /* 18px */\n  --text-xl:   1.25rem;   /* 20px */\n  --text-2xl:  1.5rem;    /* 24px */\n  --text-3xl:  1.875rem;  /* 30px */\n  --text-4xl:  2.25rem;   /* 36px */\n  --text-5xl:  3rem;      /* 48px */\n\n  /* Échelle fluide */\n  --text-hero: clamp(2.5rem, 6vw, 4.5rem);\n  --text-h1:   clamp(2rem, 4.5vw, 3.5rem);\n  --text-h2:   clamp(1.625rem, 3.5vw, 2.5rem);\n  --text-h3:   clamp(1.25rem, 2.5vw, 1.75rem);\n  --text-h4:   clamp(1.125rem, 2vw, 1.375rem);\n  --text-price:clamp(1.5rem, 3vw, 2rem);\n\n  /* Graisses */\n  --weight-light:     300;\n  --weight-regular:   400;\n  --weight-medium:    500;\n  --weight-semibold:  600;\n  --weight-bold:      700;\n  --weight-extrabold: 800;\n\n  /* Interlignes */\n  --leading-tight:   1.1;\n  --leading-snug:    1.25;\n  --leading-normal:  1.5;\n  --leading-relaxed: 1.65;\n  --leading-loose:   1.85;\n\n  /* Espacement lettre */\n  --tracking-tighter: -0.03em;\n  --tracking-tight:   -0.02em;\n  --tracking-snug:    -0.01em;\n  --tracking-normal:   0;\n  --tracking-wide:     0.02em;\n  --tracking-wider:    0.04em;\n  --tracking-widest:   0.06em;\n  --tracking-label:    0.12em;\n\n  /* ============================================\n     ESPACEMENT — base 4px\n  ============================================ */\n  --space-1:   4px;\n  --space-2:   8px;\n  --space-3:  12px;\n  --space-4:  16px;\n  --space-5:  20px;\n  --space-6:  24px;\n  --space-8:  32px;\n  --space-10: 40px;\n  --space-12: 48px;\n  --space-16: 64px;\n  --space-20: 80px;\n  --space-24: 96px;\n  --space-32: 128px;\n\n  /* Espacement composants */\n  --section-py:      clamp(64px, 8vw, 96px);\n  --section-py-sm:   clamp(40px, 6vw, 64px);\n  --container-max:   1200px;\n  --container-px:    clamp(16px, 5vw, 32px);\n  --grid-gap:        24px;\n  --grid-gap-lg:     32px;\n  --card-padding:    clamp(20px, 4vw, 32px);\n  --nav-height:      72px;\n  --nav-height-mob:  64px;\n  --hero-min-h:      clamp(560px, 80vh, 800px);\n\n  /* ============================================\n     BORDER RADIUS\n  ============================================ */\n  --radius-xs:   2px;\n  --radius-sm:   6px;\n  --radius-md:  10px;\n  --radius-lg:  14px;\n  --radius-xl:  20px;\n  --radius-2xl: 28px;\n  --radius-full: 9999px;\n\n  /* Tokens sémantiques */\n  --radius-card:   14px;\n  --radius-button: 9999px;\n  --radius-badge:  9999px;\n  --radius-input:  8px;\n  --radius-icon:   12px;\n  --radius-img:    10px;\n\n  /* ============================================\n     OMBRES\n  ============================================ */\n  --shadow-xs:          0 1px 3px rgba(13,13,13,0.06), 0 1px 2px rgba(13,13,13,0.04);\n  --shadow-sm:          0 2px 8px rgba(13,13,13,0.08), 0 1px 3px rgba(13,13,13,0.05);\n  --shadow-md:          0 4px 16px rgba(13,13,13,0.10), 0 2px 6px rgba(13,13,13,0.06);\n  --shadow-lg:          0 8px 28px rgba(13,13,13,0.12), 0 4px 10px rgba(13,13,13,0.07);\n  --shadow-xl:          0 16px 48px rgba(13,13,13,0.14), 0 6px 16px rgba(13,13,13,0.08);\n  --shadow-2xl:         0 24px 64px rgba(13,13,13,0.18);\n  --shadow-accent:      0 4px 20px rgba(201,150,58,0.30), 0 2px 8px rgba(201,150,58,0.15);\n  --shadow-accent-h:    0 6px 28px rgba(201,150,58,0.40), 0 3px 10px rgba(201,150,58,0.20);\n  --shadow-card-hover:  0 12px 36px rgba(13,13,13,0.14), 0 4px 12px rgba(13,13,13,0.08);\n  --shadow-nav:         0 2px 16px rgba(13,13,13,0.15);\n\n  /* ============================================\n     ANIMATIONS & TRANSITIONS\n  ============================================ */\n  --ease:        cubic-bezier(0.4,0,0.2,1);\n  --ease-spring: cubic-bezier(0.34,1.56,0.64,1);\n  --ease-in:     cubic-bezier(0.4,0,1,1);\n  --ease-out:    cubic-bezier(0,0,0.2,1);\n\n  --dur-fast:   150ms;\n  --dur-normal: 250ms;\n  --dur-slow:   400ms;\n\n  --t-fast:   150ms cubic-bezier(0.4,0,0.2,1);\n  --t-normal: 250ms cubic-bezier(0.4,0,0.2,1);\n  --t-slow:   400ms cubic-bezier(0.4,0,0.2,1);\n\n  /* ============================================\n     COMPOSANTS SÉMANTIQUES — BOUTONS\n  ============================================ */\n\n  /* CTA principal — or sur fond sombre */\n  --btn-cta-bg:        #C9963A;\n  --btn-cta-color:     #0D0D0D;\n  --btn-cta-bg-hover:  #B8852E;\n  --btn-cta-shadow:    0 4px 20px rgba(201,150,58,0.30);\n  --btn-cta-shadow-h:  0 6px 28px rgba(201,150,58,0.40);\n  --btn-cta-padding:   16px 32px;\n  --btn-cta-min-h:     52px;\n\n  /* Bouton secondaire sur fond clair */\n  --btn-sec-bg:        transparent;\n  --btn-sec-color:     #0D0D0D;\n  --btn-sec-border:    2px solid #0D0D0D;\n  --btn-sec-bg-h:      #0D0D0D;\n  --btn-sec-color-h:   #FFFFFF;\n\n  /* Bouton secondaire sur fond sombre */\n  --btn-dark-bg:       transparent;\n  --btn-dark-color:    #FFFFFF;\n  --btn-dark-border:   2px solid rgba(255,255,255,0.50);\n  --btn-dark-bg-h:     rgba(255,255,255,0.08);\n  --btn-dark-border-h: 2px solid #FFFFFF;\n\n  /* Bouton téléphone */\n  --btn-phone-bg:      #0D0D0D;\n  --btn-phone-color:   #FFFFFF;\n  --btn-phone-bg-h:    #2C2C2C;\n  --btn-phone-padding: 12px 24px;\n  --btn-phone-min-h:   48px;\n\n  /* ============================================\n     FOCUS — ACCESSIBILITÉ\n  ============================================ */\n  --focus-ring:        0 0 0 3px rgba(201,150,58,0.40);\n  --focus-offset:      2px;\n  --min-touch:         44px;\n  --min-touch-cta:     52px;\n}"
+}

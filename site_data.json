@@ -1,0 +1,1127 @@
+{
+  "url": "https://www.hair-artists.ch/",
+  "domain": "hair-artists.ch",
+  "scraped_at": "2026-06-03",
+  "business_name": "hair artists",
+  "group_structure": "Groupe de 9 salons de coiffure en Suisse romande, présents dans les cantons de Fribourg (Romont x2, Marly), Valais (Sion, Conthey) et Neuchâtel (La Chaux-de-Fonds x3, Neuchâtel). Site construit avec Wix, réservations via Salonkee.",
+  "tagline": "Notre différence c'est vous",
+  "description": "Au coeur de nos préoccupations. Dans chaque salons, nos professionnel(le)s de la coiffure tiennent compte de vos besoins et vos attentes. Nous sommes persuadés que la beauté et l'esthétisme ont un impact positif sur le bien-être, c'est pourquoi nous vous accompagnons à chaque rendez-vous dans cette démarche.",
+  "company": {
+    "name": "hair artists",
+    "tagline": "Notre différence c'est vous",
+    "description": "Au coeur de nos préoccupations. Dans chaque salons, nos professionnel(le)s de la coiffure tiennent compte de vos besoins et vos attentes. Nous sommes persuadés que la beauté et l'esthétisme ont un impact positif sur le bien-être, c'est pourquoi nous vous accompagnons à chaque rendez-vous dans cette démarche.",
+    "founded": null,
+    "location": "Suisse romande (Fribourg, Valais, Neuchâtel)",
+    "type": "Groupe de salons de coiffure",
+    "training": "Entreprise formatrice — formation d'apprenti(e)s CFC 3 ans dans les cantons de Fribourg, Valais et Neuchâtel",
+    "contact_email": "admin@hair-artists.ch",
+    "website_credit": "Site web réalisé par Atypeak (https://www.atypeak.ch/)"
+  },
+  "contact": {
+    "email": "admin@hair-artists.ch",
+    "address": null,
+    "phone": null,
+    "note": "Coordonnées centralisées uniquement par email. Chaque salon a ses propres coordonnées. Voir tableau salons."
+  },
+  "salons": [
+    {
+      "name": "hair artists ville (Romont)",
+      "slug": "hair-artists-moines",
+      "city": "Romont",
+      "address": "Rue des Moines 58, 1680 Romont",
+      "phone": "+41 26 652 53 37",
+      "email": null,
+      "hours": {
+        "monday": "Fermé",
+        "tuesday": "08:00 - 18:30",
+        "wednesday": "08:00 - 18:30",
+        "thursday": "08:00 - 18:30",
+        "friday": "08:00 - 18:30",
+        "saturday": "08:00 - 16:00",
+        "sunday": "Fermé"
+      },
+      "salonkee_url": "https://salonkee.ch/salon/hair-artists-moines",
+      "instagram": "https://www.instagram.com/hairartists_romontville/?hl=fr",
+      "image": "https://static.wixstatic.com/media/8a6ca2_00e37a07ca74413097c76ef68a33e0bd~mv2.jpg",
+      "rating": "4.9/5 (77 avis)"
+    },
+    {
+      "name": "hair artists centre coop (Romont)",
+      "slug": "hair-artists-coop",
+      "city": "Romont",
+      "address": "Route de la Belle-Croix 18, 1680 Romont",
+      "phone": "+41 26 652 38 48",
+      "email": null,
+      "hours": {
+        "monday": "08:00 - 19:00",
+        "tuesday": "08:00 - 19:00",
+        "wednesday": "08:00 - 19:00",
+        "thursday": "08:00 - 19:00",
+        "friday": "08:00 - 19:00",
+        "saturday": "08:00 - 19:00",
+        "sunday": "Fermé"
+      },
+      "salonkee_url": "https://salonkee.ch/salon/hair-artists-coop",
+      "instagram": "https://www.instagram.com/hair_artists_romont_coop/?hl=fr",
+      "image": "https://static.wixstatic.com/media/8a6ca2_799efa42df604262b7cf8c1176c8f4ff~mv2.jpg",
+      "rating": "4.8/5 (129 avis)"
+    },
+    {
+      "name": "hair artists marly",
+      "slug": "hair-artists-marly",
+      "city": "Marly",
+      "address": "Route des Pralettes 1, 1723 Marly",
+      "phone": "+41 79 605 87 83",
+      "email": null,
+      "hours": {
+        "monday": "09:00 - 18:30",
+        "tuesday": "08:30 - 18:30",
+        "wednesday": "08:30 - 18:30",
+        "thursday": "08:30 - 18:30",
+        "friday": "08:30 - 18:30",
+        "saturday": "09:00 - 16:00",
+        "sunday": "Fermé"
+      },
+      "salonkee_url": "https://salonkee.ch/salon/hair-artists-marly",
+      "instagram": "https://www.instagram.com/hairartistsmarly/?hl=fr",
+      "image": "https://static.wixstatic.com/media/8a6ca2_c4cfd98a8f974115b81f7bc51f107792~mv2.jpg",
+      "description": "Un véritable cocon pensé pour votre bien-être. Spécialisé en coloration 100% végétale naturelle et produits respectueux, avec expertise Redken. Note : produits à retrouver exclusivement à Marly."
+    },
+    {
+      "name": "hair artists sion",
+      "slug": "hair-artists-sion",
+      "city": "Sion",
+      "address": "Rue du Scex 2, 1950 Sion",
+      "address_detail": "Situé au 1er étage du magasin Coop City",
+      "phone": "+41 27 346 20 00",
+      "email": null,
+      "hours": {
+        "monday": "08:00 - 18:30",
+        "tuesday": "08:00 - 18:30",
+        "wednesday": "08:00 - 18:30",
+        "thursday": "08:00 - 18:30",
+        "friday": "08:00 - 20:00",
+        "saturday": "08:00 - 17:00",
+        "sunday": "Fermé"
+      },
+      "salonkee_url": "https://salonkee.ch/salon/hair-artists-sion",
+      "instagram": "https://www.instagram.com/hair_artists_sion/?hl=fr",
+      "image": "https://static.wixstatic.com/media/8a6ca2_b1586e296657498aae65a1726900031f~mv2.jpg",
+      "description": "Hair-Artists Sion a ouvert ses portes le 1er janvier 2021, porté par une équipe de professionnelles passionnées. L'établissement valorise la passion, exigence et esprit d'équipe. Les coiffeurs se forment régulièrement en Suisse et à l'international.",
+      "rating": "5/5 (199 avis)"
+    },
+    {
+      "name": "hair artists conthey",
+      "slug": "hair-artists-conthey",
+      "city": "Conthey",
+      "address": "Route Cantonale 18, 1964 Conthey",
+      "address_detail": "Situé dans le centre Coop & King Jouet",
+      "phone": "+41 27 346 22 22",
+      "email": null,
+      "hours": {
+        "monday": "Fermé",
+        "tuesday": "09:00 - 18:30",
+        "wednesday": "09:00 - 18:30",
+        "thursday": "09:00 - 18:30",
+        "friday": "09:00 - 19:00",
+        "saturday": "08:00 - 17:00",
+        "sunday": "Fermé"
+      },
+      "salonkee_url": "https://salonkee.ch/salon/hair-artists-conthey",
+      "instagram": "https://www.instagram.com/hair_artists_conthey/?hl=fr",
+      "image": "https://static.wixstatic.com/media/8a6ca2_c07f332ffee34700ba725572857f0df1~mv2.jpg",
+      "description": "Un cocon chaleureux, repris début 2025 par Jessica. L'équipe privilégie une approche fondée sur la passion, la précision et la formation continue."
+    },
+    {
+      "name": "hair artists eplatures",
+      "slug": "hair-artists-eplatures",
+      "city": "La Chaux-de-Fonds",
+      "address": "Boulevard des Eplatures 20, 2300 La Chaux-de-Fonds",
+      "phone": "+41 32 926 63 63",
+      "email": null,
+      "hours": {
+        "monday": "08:30 - 19:00",
+        "tuesday": "08:30 - 19:00",
+        "wednesday": "08:30 - 19:00",
+        "thursday": "08:30 - 20:00",
+        "friday": "08:30 - 19:00",
+        "saturday": "08:00 - 18:00",
+        "sunday": "Fermé"
+      },
+      "salonkee_url": "https://salonkee.ch/salon/hair-artists-eplatures",
+      "instagram": "https://www.instagram.com/hairartists_leseplatures/?hl=fr",
+      "image": "https://static.wixstatic.com/media/8a6ca2_895590458cbb4105afc590ed06d83d91~mv2.jpg",
+      "rating": "4.8/5 (84 avis)"
+    },
+    {
+      "name": "hair artists métropole",
+      "slug": "hair-artists-metropole",
+      "city": "La Chaux-de-Fonds",
+      "address": "Rue Daniel-Jeanrichard 23, 2300 La Chaux-de-Fonds",
+      "address_detail": "Métropole Centre",
+      "phone": "+41 32 914 10 02",
+      "email": null,
+      "hours": {
+        "monday": "08:30 - 19:00",
+        "tuesday": "08:30 - 19:00",
+        "wednesday": "08:30 - 19:00",
+        "thursday": "08:30 - 20:00",
+        "friday": "08:30 - 19:00",
+        "saturday": "08:00 - 18:00",
+        "sunday": "Fermé"
+      },
+      "salonkee_url": "https://salonkee.ch/salon/hair-artists-metropole",
+      "instagram": "https://www.instagram.com/hairartists_metropole/?hl=fr",
+      "image": "https://static.wixstatic.com/media/8a6ca2_ed4365e60b6646b2a4a865892fdaa841~mv2.jpg",
+      "rating": "4.9/5 (95 avis)"
+    },
+    {
+      "name": "hair artists léopold",
+      "slug": "hair-artists-leopold",
+      "city": "La Chaux-de-Fonds",
+      "address": "Avenue Léopold-Robert 13, 2300 La Chaux-de-Fonds",
+      "address_detail": "1er étage, au-dessus du restaurant L'Elite",
+      "phone": "+41 32 913 78 83",
+      "email": null,
+      "hours": {
+        "monday": "Fermé",
+        "tuesday": "08:00 - 18:00",
+        "wednesday": "08:00 - 18:00",
+        "thursday": "08:00 - 18:00",
+        "friday": "08:00 - 18:00",
+        "saturday": "08:00 - 12:00",
+        "sunday": "Fermé"
+      },
+      "salonkee_url": "https://salonkee.ch/salon/hair-artists-leopold",
+      "instagram": "https://www.instagram.com/hair_artist_leopold/?hl=fr",
+      "image": "https://static.wixstatic.com/media/8a6ca2_81bec9ab97644ff98b476919cdbe4821~mv2.jpg"
+    },
+    {
+      "name": "hair artists neuchâtel",
+      "slug": "hair-artists-neuchatel",
+      "city": "Neuchâtel",
+      "address": "St-Honoré 12, 2000 Neuchâtel",
+      "phone": null,
+      "email": null,
+      "hours": null,
+      "salonkee_url": "https://salonkee.ch/salon/hair-artists-neuchatel",
+      "salonkee_note": "Le lien Salonkee pointe vers un autre salon (Tamara Coiffure & Barbier). Page Salonkee propre non trouvée.",
+      "instagram": "https://www.instagram.com/hairartistsneuchatel/?hl=fr",
+      "image": "https://static.wixstatic.com/media/8a6ca2_37c24a955e9e41e3870c9cbe6dd8d7ed~mv2.jpg",
+      "review_from_homepage": "Le brushing et la coupe de la frange étaient parfaits. Le salon est très bien situé au centre ville. — Valérie"
+    }
+  ],
+  "social_links": {
+    "instagram_per_salon": {
+      "romont_ville": "https://www.instagram.com/hairartists_romontville/?hl=fr",
+      "romont_coop": "https://www.instagram.com/hair_artists_romont_coop/?hl=fr",
+      "marly": "https://www.instagram.com/hairartistsmarly/?hl=fr",
+      "sion": "https://www.instagram.com/hair_artists_sion/?hl=fr",
+      "eplatures": "https://www.instagram.com/hairartists_leseplatures/?hl=fr",
+      "conthey": "https://www.instagram.com/hair_artists_conthey/?hl=fr",
+      "metropole": "https://www.instagram.com/hairartists_metropole/?hl=fr",
+      "leopold": "https://www.instagram.com/hair_artist_leopold/?hl=fr",
+      "neuchatel": "https://www.instagram.com/hairartistsneuchatel/?hl=fr"
+    },
+    "facebook": null,
+    "google_business": null,
+    "_note": "Chaque salon a son propre compte Instagram. Aucun compte Facebook global du groupe détecté. Ces liens sont des profils réseaux sociaux uniquement."
+  },
+  "logo": {
+    "primary_url": "https://static.wixstatic.com/media/8a6ca2_66a92d8ef3584fe29e27e2f4b52662af~mv2.png",
+    "secondary_url": "https://static.wixstatic.com/media/8a6ca2_f77a0aa8b51046f09f104069dcf6f90b~mv2.png",
+    "alt_text": "hair artists",
+    "favicon_url": "https://static.wixstatic.com/media/a0d391_1a61f1588e644b7f9f1be04850dc39eb~mv2.png",
+    "colors_extracted": ["Probablement noir/blanc — logo Wix non déchiffrable sans rendu visuel"]
+  },
+  "navigation": [
+    "Accueil",
+    "Salons",
+    "Offres",
+    "Gammes actuelles",
+    "Emploi"
+  ],
+  "services": [
+    "Brushing / Wavy / Lisse",
+    "Shampoing + Coupe brushing",
+    "Shampoing + Coupe séchage naturel",
+    "Pixi cut",
+    "Cut and Go",
+    "Coupe frange",
+    "Chignon",
+    "Attaches coiffure",
+    "Tresse",
+    "Shampoing + Coupe ciseaux (homme)",
+    "Shampoing + Coupe classique (homme)",
+    "Shampoing + Coupe tondeuse (homme)",
+    "Shampoing + Coupe fondu à blanc (homme)",
+    "Taille de barbe",
+    "Taille de barbe avec finitions rasoir",
+    "Coloration + Brushing",
+    "Coloration + Coupe Brushing",
+    "Coloration semi-permanente",
+    "Coloration premium",
+    "Coloration 100% végétale Marcapar",
+    "Gloss + Brushing",
+    "Gloss + Coupe Brushing",
+    "Balayage & Mèches",
+    "Balayage glossing + brushing",
+    "Soin intense",
+    "Soin profonds (inclus Fusio-dose)",
+    "Spa du cheveu détoxifiant",
+    "Soins Botox Luxury Caviar Therapy",
+    "Rituel Botox Fusion",
+    "Kerathérapie",
+    "Rituel Fortifiant",
+    "Rituel Première",
+    "Rituel ultime",
+    "Rituel Homme",
+    "Conditionneur / Soins cuir chevelu",
+    "Diagnostic digital Kérascan",
+    "Extensions Bandes",
+    "Extension Kératine par mèche",
+    "Extension Kératine 50 mèches",
+    "Extension Kératine 100 mèches",
+    "Extension Kératine 150 mèches",
+    "Lissage / Boucles",
+    "Défrisage / Permanente",
+    "Perruques médicales",
+    "Services Juniors (bébé à 15 ans)",
+    "Abonnements (Brushing 10x, Coupe tondeuse 10x, Sh+Coupe+Barbe 10x)"
+  ],
+  "pricing": [
+    {
+      "category": "Classiques",
+      "service": "Coloration semi-permanente + Brushing",
+      "price": "dès 107 CHF",
+      "salon": "hair artists centre coop, eplatures, métropole, ville (Romont)"
+    },
+    {
+      "category": "Classiques",
+      "service": "Coloration + Brushing",
+      "price": "dès 127 CHF",
+      "salon": "hair artists sion, conthey"
+    },
+    {
+      "category": "Classiques",
+      "service": "Coloration premium + Coupe brushing",
+      "price": "dès 134–155 CHF selon salon",
+      "salon": "tous salons"
+    },
+    {
+      "category": "Classiques",
+      "service": "Gloss + Brushing",
+      "price": "dès 85–86 CHF",
+      "salon": "sion, conthey"
+    },
+    {
+      "category": "Classiques",
+      "service": "Balayage glossing + brushing",
+      "price": "dès 159–177 CHF",
+      "salon": "romont ville, eplatures, métropole"
+    },
+    {
+      "category": "Mesdames",
+      "service": "Brushing / Wavy / Lisse",
+      "price": "dès 46–47 CHF",
+      "salon": "tous salons"
+    },
+    {
+      "category": "Mesdames",
+      "service": "Shampoing + Coupe brushing",
+      "price": "dès 74 CHF",
+      "salon": "tous salons"
+    },
+    {
+      "category": "Mesdames",
+      "service": "Shampoing + Coupe séchage naturel",
+      "price": "dès 71 CHF",
+      "salon": "tous salons"
+    },
+    {
+      "category": "Mesdames",
+      "service": "Pixi cut",
+      "price": "dès 49 CHF",
+      "salon": "eplatures, métropole, romont ville"
+    },
+    {
+      "category": "Mesdames",
+      "service": "Cut and Go",
+      "price": "dès 55 CHF",
+      "salon": "eplatures, métropole, romont ville, coop"
+    },
+    {
+      "category": "Mesdames",
+      "service": "Coupe frange",
+      "price": "12 CHF",
+      "salon": "eplatures, métropole, romont ville"
+    },
+    {
+      "category": "Mesdames",
+      "service": "Chignon",
+      "price": "90 CHF",
+      "salon": "tous salons"
+    },
+    {
+      "category": "Messieurs",
+      "service": "Shampoing + Coupe ciseaux",
+      "price": "47 CHF",
+      "salon": "tous salons"
+    },
+    {
+      "category": "Messieurs",
+      "service": "Shampoing + Coupe classique",
+      "price": "44 CHF",
+      "salon": "tous salons"
+    },
+    {
+      "category": "Messieurs",
+      "service": "Shampoing + Coupe tondeuse",
+      "price": "28 CHF",
+      "salon": "eplatures, métropole, romont coop, romont ville"
+    },
+    {
+      "category": "Messieurs",
+      "service": "Taille de barbe",
+      "price": "dès 20 CHF",
+      "salon": "tous salons"
+    },
+    {
+      "category": "Messieurs",
+      "service": "Taille de barbe avec finitions rasoir",
+      "price": "dès 29 CHF",
+      "salon": "eplatures, métropole, romont ville"
+    },
+    {
+      "category": "Messieurs",
+      "service": "Shampoing + Coupe + Taille barbe",
+      "price": "dès 74 CHF",
+      "salon": "métropole, eplatures"
+    },
+    {
+      "category": "Coloration / Mèches / Balayage",
+      "service": "Coloration premium",
+      "price": "dès 27 CHF",
+      "salon": "eplatures, métropole, romont coop, romont ville"
+    },
+    {
+      "category": "Coloration / Mèches / Balayage",
+      "service": "Coloration semi-permanente",
+      "price": "dès 63–65 CHF",
+      "salon": "eplatures, métropole, romont coop, romont ville"
+    },
+    {
+      "category": "Coloration / Mèches / Balayage",
+      "service": "Gloss 10 min",
+      "price": "dès 29 CHF",
+      "salon": "eplatures, métropole, romont coop, romont ville"
+    },
+    {
+      "category": "Coloration / Mèches / Balayage",
+      "service": "Balayage & Mèches inclus glossing",
+      "price": "dès 104–136 CHF selon salon",
+      "salon": "tous salons"
+    },
+    {
+      "category": "Coloration / Mèches / Balayage",
+      "service": "Coloration + balayage (sans finitions)",
+      "price": "dès 190 CHF",
+      "salon": "eplatures, métropole, romont coop"
+    },
+    {
+      "category": "Marly spécifique",
+      "service": "Couleur/Gloss + Coupe/Brushing",
+      "price": "dès 160 CHF",
+      "salon": "marly"
+    },
+    {
+      "category": "Marly spécifique",
+      "service": "Balayage signature + shampoing/coupe/brushing",
+      "price": "dès 191 CHF",
+      "salon": "marly"
+    },
+    {
+      "category": "Marly spécifique",
+      "service": "Coloration 100% végétale Marcapar (1 application + coupe brushing)",
+      "price": "dès 143 CHF",
+      "salon": "marly"
+    },
+    {
+      "category": "Marly spécifique",
+      "service": "Coloration 100% végétale Marcapar (2 applications + coupe brushing)",
+      "price": "dès 152 CHF",
+      "salon": "marly"
+    },
+    {
+      "category": "Soins",
+      "service": "Soin intense",
+      "price": "15 CHF",
+      "salon": "tous salons"
+    },
+    {
+      "category": "Soins",
+      "service": "Soin profonds (inclus Fusio-dose)",
+      "price": "23 CHF",
+      "salon": "tous salons"
+    },
+    {
+      "category": "Soins",
+      "service": "Rituel ultime",
+      "price": "26 CHF",
+      "salon": "eplatures, métropole, romont ville, romont coop"
+    },
+    {
+      "category": "Soins",
+      "service": "Spa du cheveu détoxifiant",
+      "price": "35–36 CHF",
+      "salon": "sion, romont ville, eplatures, métropole"
+    },
+    {
+      "category": "Soins",
+      "service": "Kerathérapie",
+      "price": "45 CHF",
+      "salon": "eplatures, métropole, romont coop, romont ville"
+    },
+    {
+      "category": "Soins",
+      "service": "Rituel Fortifiant",
+      "price": "36 CHF",
+      "salon": "eplatures, métropole, romont coop, romont ville"
+    },
+    {
+      "category": "Soins",
+      "service": "Rituel Première",
+      "price": "36 CHF",
+      "salon": "eplatures, métropole, romont coop, romont ville"
+    },
+    {
+      "category": "Soins",
+      "service": "Rituel Homme",
+      "price": "7 CHF",
+      "salon": "eplatures, métropole, romont ville"
+    },
+    {
+      "category": "Soins",
+      "service": "Conditionneur / Soins cuir chevelu",
+      "price": "10 CHF",
+      "salon": "eplatures, métropole, romont coop"
+    },
+    {
+      "category": "Soins",
+      "service": "Rituel Botox Fusion",
+      "price": "dès 70–80 CHF",
+      "salon": "tous salons"
+    },
+    {
+      "category": "Soins",
+      "service": "Botox capillaire",
+      "price": "dès 5 CHF",
+      "salon": "conthey"
+    },
+    {
+      "category": "Soins",
+      "service": "Soins Botox Luxury Caviar Therapy",
+      "price": "dès 80 CHF",
+      "salon": "sion"
+    },
+    {
+      "category": "Soins",
+      "service": "Spa DÉTOX + brushing",
+      "price": "dès 81 CHF",
+      "salon": "marly"
+    },
+    {
+      "category": "Soins",
+      "service": "Soin botox + brushing",
+      "price": "dès 116 CHF",
+      "salon": "marly"
+    },
+    {
+      "category": "Soins",
+      "service": "Diagnostic digital Kérascan",
+      "price": "20 CHF",
+      "salon": "eplatures, métropole, romont coop, romont ville"
+    },
+    {
+      "category": "Juniors (0-15 ans)",
+      "service": "Bébé (1 an et moins)",
+      "price": "20 CHF",
+      "salon": "tous salons"
+    },
+    {
+      "category": "Juniors (0-15 ans)",
+      "service": "Enfants (6 ans et moins)",
+      "price": "dès 25 CHF",
+      "salon": "tous salons"
+    },
+    {
+      "category": "Juniors (0-15 ans)",
+      "service": "Enfants (7-11 ans)",
+      "price": "28–33 CHF",
+      "salon": "tous salons"
+    },
+    {
+      "category": "Juniors (0-15 ans)",
+      "service": "Garçons (12-15 ans)",
+      "price": "33 CHF",
+      "salon": "tous salons"
+    },
+    {
+      "category": "Juniors (0-15 ans)",
+      "service": "Filles (12-15 ans)",
+      "price": "49 CHF",
+      "salon": "tous salons"
+    },
+    {
+      "category": "Extensions",
+      "service": "Extensions Bandes",
+      "price": "dès 250 CHF",
+      "salon": "eplatures, métropole, romont coop, romont ville, léopold"
+    },
+    {
+      "category": "Extensions",
+      "service": "Extension une Bande",
+      "price": "25 CHF",
+      "salon": "eplatures, métropole, romont coop, romont ville"
+    },
+    {
+      "category": "Extensions",
+      "service": "Extension Kératine par mèche",
+      "price": "dès 8 CHF",
+      "salon": "eplatures, métropole, romont coop, romont ville"
+    },
+    {
+      "category": "Extensions",
+      "service": "Extension Kératine 50 mèches (30-70cm)",
+      "price": "dès 400 CHF",
+      "salon": "eplatures, métropole, romont coop, romont ville, léopold"
+    },
+    {
+      "category": "Extensions",
+      "service": "Extension Kératine 100 mèches (30-70cm)",
+      "price": "dès 800 CHF",
+      "salon": "eplatures, métropole, romont coop, romont ville"
+    },
+    {
+      "category": "Extensions",
+      "service": "Extension Kératine 150 mèches (30-70cm)",
+      "price": "dès 1200 CHF",
+      "salon": "eplatures, métropole, romont coop, romont ville"
+    },
+    {
+      "category": "Extensions",
+      "service": "Extension Kératine 50 mèches",
+      "price": "dès 400 CHF",
+      "salon": "léopold, romont ville"
+    },
+    {
+      "category": "Extensions",
+      "service": "Extension Kératine 150 mèches",
+      "price": "dès 1200 CHF",
+      "salon": "romont ville"
+    },
+    {
+      "category": "Lissage / Défrisage",
+      "service": "Lissage / Boucles",
+      "price": "dès 69 CHF",
+      "salon": "eplatures, métropole, romont coop, romont ville, marly"
+    },
+    {
+      "category": "Coiffure événementielle",
+      "service": "Attaches coiffure",
+      "price": "dès 50 CHF",
+      "salon": "marly"
+    },
+    {
+      "category": "Coiffure événementielle",
+      "service": "Tresse",
+      "price": "15 CHF",
+      "salon": "marly"
+    },
+    {
+      "category": "Spécial",
+      "service": "Perruques médicales",
+      "price": "dès 200 CHF (forfait de base)",
+      "salon": "eplatures"
+    },
+    {
+      "category": "Offres",
+      "service": "-20% étudiants & apprentis",
+      "price": "Réduction permanente de 20%",
+      "salon": "tous salons"
+    },
+    {
+      "category": "Offres",
+      "service": "Gamme Rituel Première",
+      "price": "36 CHF",
+      "salon": "tous salons"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_66a92d8ef3584fe29e27e2f4b52662af~mv2.png",
+      "alt": "Logo hair artists (header principal)",
+      "context": "Logo principal header",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_f77a0aa8b51046f09f104069dcf6f90b~mv2.png",
+      "alt": "Logo hair artists variante",
+      "context": "Logo variante / footer",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/a0d391_1a61f1588e644b7f9f1be04850dc39eb~mv2.png",
+      "alt": "hair artists - favicon",
+      "context": "Favicon",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_a40d3585fa854f6e81b3a2b0b96ed6c5~mv2.png",
+      "alt": "Logo hair artists édité",
+      "context": "Logo variante éditée",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/bd620724ed3d4f14841d8d856169b5c4.jpg",
+      "alt": "Lavage des cheveux",
+      "context": "Image hero / bannière principale",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_6e0f0e1c124548c7ae512b6495e2286c~mv2.jpg",
+      "alt": "IMG-20220113-WA0007.jpg",
+      "context": "Photo salon / équipe",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_f01b07146c664224bd12a7c141bc2ce7~mv2.jpeg",
+      "alt": "WhatsApp Image 2024-03-05 at 18.08.29",
+      "context": "Galerie salon",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_76ada74b41f840fca731217030f4f571~mv2.jpeg",
+      "alt": "WhatsApp Image 2024-03-05 at 18.08.29 (1)",
+      "context": "Galerie salon",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_027e2344cfdc4503b29057f252d3c8b5~mv2.jpeg",
+      "alt": "WhatsApp Image 2024-03-05 at 18.08.29 (7)",
+      "context": "Galerie salon",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_0a928fab2c5c4f10b5c3203f0b4ab3df~mv2.jpeg",
+      "alt": "WhatsApp Image 2024-03-05 at 18.08.29 (6)",
+      "context": "Galerie salon",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_4db73528281a4b558615d159cda9921f~mv2.jpeg",
+      "alt": "WhatsApp Image 2024-03-05 at 18.08.29 (3)",
+      "context": "Galerie salon",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_9bfb2387e1784d878a143e2418e6e93f~mv2.jpeg",
+      "alt": "WhatsApp Image 2024-03-05 at 18.08.29 (5)",
+      "context": "Galerie salon",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_2d266ce73d79442b97544739d285d07e~mv2.jpeg",
+      "alt": "WhatsApp Image 2024-03-05 at 18.08.29 (2)",
+      "context": "Galerie salon",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_03c1dd67ce354121a2644f4f726b0a73~mv2.jpeg",
+      "alt": "WhatsApp Image 2024-03-05 at 18.08.29 (4)",
+      "context": "Galerie salon",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_b1586e296657498aae65a1726900031f~mv2.jpg",
+      "alt": "hair artists Sion",
+      "context": "Photo salon Sion",
+      "page": "homepage/salons"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_c07f332ffee34700ba725572857f0df1~mv2.jpg",
+      "alt": "hair artists Conthey",
+      "context": "Photo salon Conthey",
+      "page": "homepage/salons"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_799efa42df604262b7cf8c1176c8f4ff~mv2.jpg",
+      "alt": "hair artists Romont Coop",
+      "context": "Photo salon Romont Coop",
+      "page": "homepage/salons"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_3c7cf6097a82492686d306ea8a70aad6~mv2.jpg",
+      "alt": "hair artists Sion (variante)",
+      "context": "Photo salon Sion variante",
+      "page": "homepage/salons"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_ed4365e60b6646b2a4a865892fdaa841~mv2.jpg",
+      "alt": "hair artists Metropole",
+      "context": "Photo salon Métropole La Chaux-de-Fonds",
+      "page": "homepage/salons"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_81bec9ab97644ff98b476919cdbe4821~mv2.jpg",
+      "alt": "hair artists Léopold",
+      "context": "Photo salon Léopold La Chaux-de-Fonds",
+      "page": "homepage/salons"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_8254156ab04c4dbb9d3a98392db43ddc~mv2.jpg",
+      "alt": "hair artists Fribourg",
+      "context": "Photo salon Fribourg (non listé dans nav actuelle — possiblement fermé)",
+      "page": "homepage/salons"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_895590458cbb4105afc590ed06d83d91~mv2.jpg",
+      "alt": "hair artists Eplatures",
+      "context": "Photo salon Eplatures La Chaux-de-Fonds",
+      "page": "homepage/salons"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_37c24a955e9e41e3870c9cbe6dd8d7ed~mv2.jpg",
+      "alt": "hair artists Neuchâtel",
+      "context": "Photo salon Neuchâtel",
+      "page": "homepage/salons"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_c4cfd98a8f974115b81f7bc51f107792~mv2.jpg",
+      "alt": "hair artists Marly",
+      "context": "Photo salon Marly",
+      "page": "homepage/salons"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_00e37a07ca74413097c76ef68a33e0bd~mv2.jpg",
+      "alt": "hair artists Romont Ville",
+      "context": "Photo salon Romont Ville",
+      "page": "homepage/salons"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_d96b79a7f09e455788f2be9799886a91~mv2.png",
+      "alt": "hair artists ville Romont",
+      "context": "Illustration/logo salon Romont Ville",
+      "page": "salons"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_d37c2619075243cfaa8593261f6732d2~mv2.jpg",
+      "alt": "KER-visual_inter_gris_740x936.jpg — Kerastase Première",
+      "context": "Produit Kerastase Première",
+      "page": "homepage/gammesactuelles"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_a90e515f241648238185c52cbd898456~mv2.png",
+      "alt": "Homme01 copie.png",
+      "context": "Photo homme coiffure",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_b5ad1eedcfcc46349681e04e50a876a3~mv2.jpg",
+      "alt": "KERASTASE Chroma Absolu",
+      "context": "Gamme Kerastase Chroma Absolu",
+      "page": "gammesactuelles"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_b4ab17f59e4740d38c54382b2ebfa258~mv2.jpg",
+      "alt": "AUTHENTIC BEAUTY Trio coiffant",
+      "context": "Gamme Authentic Beauty Concept",
+      "page": "gammesactuelles"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_f821a1ee72b74f48a03d027bbb32be9f~mv2.jpg",
+      "alt": "SWISS LISS Fer à lisser",
+      "context": "Gamme Swiss Liss fer à lisser",
+      "page": "gammesactuelles"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_ba693ccd092547d7bb555dd05aec6c00~mv2.jpg",
+      "alt": "GHD Gamme matériel",
+      "context": "Gamme GHD outillage",
+      "page": "gammesactuelles"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_f7b4f3189be24106a7c89dea0380cb1c~mv2.jpg",
+      "alt": "MARCAPAR Coloration végétale",
+      "context": "Gamme Marcapar coloration végétale",
+      "page": "gammesactuelles"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_69bd4e7672304fe8a79b1e6d949e110f~mv2.webp",
+      "alt": "ALFARO PROFESSIONNEL Coloration",
+      "context": "Gamme Alfaro Professionnel",
+      "page": "gammesactuelles"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_d5ed0606f91b42a1b3982a59cb79bbb7~mv2.jpg",
+      "alt": "SWISS LISS Sèche-cheveux",
+      "context": "Gamme Swiss Liss sèche-cheveux",
+      "page": "gammesactuelles"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_1d9422b399064968bcac25d5d83bcdf8~mv2.jpg",
+      "alt": "Salons hair artists",
+      "context": "Section salons - gammes",
+      "page": "gammesactuelles"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/62E461791A8D4453A5088CBF4E070893.jpg",
+      "alt": "Emploi hair artists",
+      "context": "Section emploi - gammesactuelles",
+      "page": "gammesactuelles"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_c8763fd4376c46118370997b2e281fad~mv2.png",
+      "alt": "SION.png",
+      "context": "Image salon Sion (offres)",
+      "page": "offres"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_c44b93b3bb5d41ec952c62aa8610a09f~mv2.jpg",
+      "alt": "COIFFURE",
+      "context": "Image coiffure générale",
+      "page": "emploi"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_8df52f6c72584525a2dc9528423580d5~mv2.jpg",
+      "alt": "F6654617DBB44C56924F81C06CED208F.jpg",
+      "context": "Image emploi / formation",
+      "page": "emploi"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_fbc070206e1b4dca93ddc20c9810ae61~mv2.jpg",
+      "alt": "Barbier au travail",
+      "context": "Image barbier",
+      "page": "emploi"
+    },
+    {
+      "url": "https://salonkee.cloud/ch/data/173/coverImage/n-jBRrK2v1ZGDNa4WxKA3gz-sm--opt",
+      "alt": "Cover Eplatures",
+      "context": "Photo couverture Salonkee - Eplatures",
+      "page": "salonkee/eplatures"
+    },
+    {
+      "url": "https://salonkee.cloud/ch/data/2879/coverImage/n-lR9385MleEMyDdRd8OzXA-sm--opt",
+      "alt": "Cover Neuchâtel (Tamara)",
+      "context": "Photo couverture Salonkee - autre salon",
+      "page": "salonkee/neuchatel"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/a0d391_9631855b34a44fbaacd6d1f674c21de4~mv2.png",
+      "alt": "Kerastase logo",
+      "context": "Logo marque Kerastase",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_a3009b28206d4112a60a66bb4f01676d~mv2.png",
+      "alt": "Authentic Beauty Concept logo",
+      "context": "Logo marque ABC",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_625f2f25e5be4be3804c142f14d14b7a~mv2.png",
+      "alt": "GHD logo",
+      "context": "Logo marque GHD",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/a0d391_83eee8952b85477f86bce7d5e034f6d3~mv2.png",
+      "alt": "Rochette logo",
+      "context": "Logo marque Rochette",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_cd82f2773d3c4c1c8e48b6be4b5ee36d~mv2.png",
+      "alt": "Marcapar logo",
+      "context": "Logo marque Marcapar",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/a0d391_215913db6a4d4111b16f1381a5075b1e~mv2.png",
+      "alt": "Alfaro logo",
+      "context": "Logo marque Alfaro Professionnel",
+      "page": "homepage"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8a6ca2_873b8f24be9d4e5b970eb65f8cc9066c~mv2.png",
+      "alt": "Swiss Liss logo",
+      "context": "Logo marque Swiss Liss",
+      "page": "homepage"
+    }
+  ],
+  "brand_partners": [
+    {
+      "name": "Kérastase",
+      "logo": "https://static.wixstatic.com/media/a0d391_9631855b34a44fbaacd6d1f674c21de4~mv2.png",
+      "products": ["Chroma Absolu (cheveux colorés)", "Première (cheveux abîmés — 99% de la force retrouvée)"]
+    },
+    {
+      "name": "Authentic Beauty Concept (ABC)",
+      "logo": "https://static.wixstatic.com/media/8a6ca2_a3009b28206d4112a60a66bb4f01676d~mv2.png",
+      "products": ["Trio coiffant : Texture Airy, Nude Poudre, Nymphe Salt Spray"]
+    },
+    {
+      "name": "GHD",
+      "logo": "https://static.wixstatic.com/media/8a6ca2_625f2f25e5be4be3804c142f14d14b7a~mv2.png",
+      "products": ["Lisseurs, boucleurs, brosses chauffantes, sèche-cheveux, produits coiffants — depuis 20 ans"]
+    },
+    {
+      "name": "Rochette",
+      "logo": "https://static.wixstatic.com/media/a0d391_83eee8952b85477f86bce7d5e034f6d3~mv2.png",
+      "products": []
+    },
+    {
+      "name": "Marcapar",
+      "logo": "https://static.wixstatic.com/media/8a6ca2_cd82f2773d3c4c1c8e48b6be4b5ee36d~mv2.png",
+      "products": ["Coloration 100% végétale — respectueuse du cheveu, convient aux femmes enceintes/allaitantes et aux patientes post-chimiothérapie/radiothérapie"]
+    },
+    {
+      "name": "Alfaro Professionnel",
+      "logo": "https://static.wixstatic.com/media/a0d391_215913db6a4d4111b16f1381a5075b1e~mv2.png",
+      "products": ["Coloration professionnelle éco-responsable, créée par des coiffeurs pour des coiffeurs"]
+    },
+    {
+      "name": "Swiss Liss",
+      "logo": "https://static.wixstatic.com/media/8a6ca2_873b8f24be9d4e5b970eb65f8cc9066c~mv2.png",
+      "products": [
+        "Fer à lisser ionique Curl edition (wavy/lisse)",
+        "Sèche-cheveux 270g ultra-silencieux — 3 réglages puissance, 3 réglages chaleur, bouton air froid"
+      ],
+      "exclusive": "Produits à retrouver exclusivement à Marly"
+    }
+  ],
+  "colors": {
+    "note": "Site Wix — variables CSS non exposées. Couleurs déduites du rendu visuel.",
+    "primary": "#1a1a1a (noir/très sombre — texte principal)",
+    "secondary": "#ffffff (blanc — fond principal)",
+    "accent": "Ton neutre / beige clair probable pour sections",
+    "button_background": "#1a1a1a ou sombre",
+    "button_text": "#ffffff"
+  },
+  "design": {
+    "colors_css": [
+      "#1a1a1a (role: texte principal, boutons)",
+      "#ffffff (role: fond, texte sur fond sombre)",
+      "beige/nude léger (role: sections alternées probable)"
+    ],
+    "fonts": ["Non détectables via Wix sans accès CSS — probablement Helvetica Neue ou sans-serif moderne"],
+    "logo_url": "DEPRECATED — utiliser logo.primary_url",
+    "platform": "Wix",
+    "style": "Design épuré, minimaliste, noir/blanc, sections alternées"
+  },
+  "tone": "Professionnel, bienveillant, centré client. Slogan 'Notre différence c'est vous' traduit un positionnement personnalisé et humain. Langage simple et accessible, pas de jargon excessif. Accent sur la passion, la formation continue et l'expertise.",
+  "about_content": "Au coeur de nos préoccupations. Dans chaque salons, nos professionnel(le)s de la coiffure tiennent compte de vos besoins et vos attentes. Nous sommes persuadés que la beauté et l'esthétisme ont un impact positif sur le bien-être, c'est pourquoi nous vous accompagnons à chaque rendez-vous dans cette démarche. | Nous formons chaque année un grand nombre d'apprenti(e)s. Notre réseau de formation est important dans la Suisse romande. Nous formons dans nos salons situés dans les cantons de Fribourg, du Valais ainsi que Neuchâtel. L'Apprentissage, c'est la voie que la majorité des Suisses suivent pour se former et, après 3 ans de formation, elle aboutit au Certificat Fédéral de Capacité (CFC).",
+  "homepage_content": "Notre différence c'est vous | Prendre rendez-vous | Où nous trouver ? Plusieurs salons en suisse romande pour mieux vous servir ou que vous soyez | Gammes de produits - Retrouvez toutes nos gammes de produits | À ne pas manquer - Toutes nos offres produits à retrouver directement en salon | Notre vision — Au coeur de nos préoccupations. Dans chaque salons, nos professionnel(le)s de la coiffure tiennent compte de vos besoins et vos attentes. Nous sommes persuadés que la beauté et l'esthétisme ont un impact positif sur le bien-être, c'est pourquoi nous vous accompagnons à chaque rendez-vous dans cette démarche. | Avis clients : Emmanuel (hair artists Eplatures) — 'Je suis plus que satisfait de ma coupe de cheveux, j'ai été reçus pas Justine elle est très compétente elle bosse incroyablement bien.' | Neli (hair artists Metropole) — 'Super accueil et super travail de transformation. Je ne peux que recommander. Merci' | Valérie (hair artists Neuchâtel) — 'Le brushing et la coupe de la frange étaient parfaits. Le salon est très bien situé au centre ville.' | Djemila (hair artists Conthey) — 'Super satisfaite de ma coupe, coiffeur au top et à l'écoute! La réservation en ligne avec les créneaux horaires disponible ça change la vie!!!'",
+  "client_reviews": [
+    {
+      "name": "Emmanuel",
+      "salon": "hair artists Eplatures",
+      "text": "Je suis plus que satisfait de ma coupe de cheveux, j'ai été reçus pas Justine elle est très compétente elle bosse incroyablement bien.",
+      "source": "homepage"
+    },
+    {
+      "name": "Neli",
+      "salon": "hair artists Metropole",
+      "text": "Super accueil et super travail de transformation. Je ne peux que recommander. Merci",
+      "source": "homepage"
+    },
+    {
+      "name": "Valérie",
+      "salon": "hair artists Neuchâtel",
+      "text": "Le brushing et la coupe de la frange étaient parfaits. Le salon est très bien situé au centre ville.",
+      "source": "homepage"
+    },
+    {
+      "name": "Djemila",
+      "salon": "hair artists Conthey",
+      "text": "Super satisfaite de ma coupe, coiffeur au top et à l'écoute! La réservation en ligne avec les créneaux horaires disponible ça change la vie!!!",
+      "source": "homepage"
+    },
+    {
+      "name": "Sarah",
+      "salon": "hair artists Sion",
+      "text": "Accueil chaleureux, très bons conseils et résultat très beau.",
+      "source": "salonkee"
+    },
+    {
+      "name": "Virginie",
+      "salon": "hair artists Sion",
+      "text": "Accueil, gentillesse et efficacité, je reviendrai!",
+      "source": "salonkee"
+    }
+  ],
+  "seo": {
+    "title": "Accueil | hair artists",
+    "meta_description": null,
+    "keywords": []
+  },
+  "pages_crawled": 18,
+  "site_structure": [
+    "/ (Accueil)",
+    "/salons",
+    "/offres",
+    "/gammesactuelles",
+    "/emploi",
+    "salonkee.ch/salon/hair-artists-sion",
+    "salonkee.ch/salon/hair-artists-conthey",
+    "salonkee.ch/salon/hair-artists-eplatures",
+    "salonkee.ch/salon/hair-artists-metropole",
+    "salonkee.ch/salon/hair-artists-leopold",
+    "salonkee.ch/salon/hair-artists-marly",
+    "salonkee.ch/salon/hair-artists-moines",
+    "salonkee.ch/salon/hair-artists-coop",
+    "salonkee.ch/salon/hair-artists-neuchatel (redirige vers autre salon)"
+  ],
+  "pages_to_generate": [
+    {
+      "file": "index.html",
+      "source_url": "/",
+      "role": "Accueil — hero, vision, liste salons, avis clients, marques, CTA réservation"
+    },
+    {
+      "file": "salons.html",
+      "source_url": "/salons",
+      "role": "Liste complète des 9 salons avec coordonnées, horaires, liens réservation"
+    },
+    {
+      "file": "services.html",
+      "source_url": null,
+      "role": "Tarifs et services complets — toutes prestations par catégorie et par salon"
+    },
+    {
+      "file": "offres.html",
+      "source_url": "/offres",
+      "role": "Offres et promotions actuelles (-20% étudiants, Rituel Première 36 CHF)"
+    },
+    {
+      "file": "gammes.html",
+      "source_url": "/gammesactuelles",
+      "role": "Gammes de produits — Kerastase, GHD, Swiss Liss, Marcapar, ABC, Alfaro, Rochette"
+    },
+    {
+      "file": "emploi.html",
+      "source_url": "/emploi",
+      "role": "Offres d'emploi et apprentissage CFC — formulaire / email de candidature"
+    },
+    {
+      "file": "privacy.html",
+      "source_url": null,
+      "role": "Politique de confidentialité — à créer from scratch (absent du site original)"
+    },
+    {
+      "file": "mentions-legales.html",
+      "source_url": null,
+      "role": "Mentions légales — à créer from scratch (absent du site original)"
+    }
+  ]
+}
